@@ -1,6 +1,11 @@
+[vfs.browser.filter]
+*\[^~#\]
 [action]
+backspace
 next-char
 prev-char
 next-line
 prev-line
 insert-newline-indent
+[vfs.browser.path]
+C:\\Users\\Derik\\Desktop

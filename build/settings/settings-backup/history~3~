@@ -1,4 +1,6 @@
 [action]
-insert-newline-indent
 next-char
 prev-char
+prev-line
+next-line
+insert-newline-indent

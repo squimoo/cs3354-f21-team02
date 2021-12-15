@@ -1,11 +1,13 @@
 <?xml version="1.0" encoding="UTF-8" ?>
 <!DOCTYPE PERSPECTIVE SYSTEM "perspective.dtd">
 <PERSPECTIVE>
+<BUFFER AUTORELOAD="TRUE" AUTORELOAD_DIALOG="TRUE" UNTITLED="FALSE">C:\Users\Derik\Desktop\cardkingdom.txt</BUFFER>
 <BUFFER AUTORELOAD="TRUE" AUTORELOAD_DIALOG="TRUE" UNTITLED="TRUE">C:\Users\Derik\Documents\GitHub\cs3354-f21-team02\Untitled-1</BUFFER>
+<BUFFER AUTORELOAD="TRUE" AUTORELOAD_DIALOG="TRUE" UNTITLED="TRUE">C:\Users\Derik\Desktop\Untitled-3</BUFFER>
 <VIEW PLAIN="FALSE">
 <PANES>
-"C:\\Users\\Derik\\Documents\\GitHub\\cs3354-f21-team02\\Untitled-1" buffer "C:\\Users\\Derik\\Documents\\GitHub\\cs3354-f21-team02\\Untitled-1" buff "global" bufferset
+"C:\\Users\\Derik\\Desktop\\Untitled-3" buffer "C:\\Users\\Derik\\Desktop\\cardkingdom.txt" buff "C:\\Users\\Derik\\Documents\\GitHub\\cs3354-f21-team02\\Untitled-1" buff "C:\\Users\\Derik\\Desktop\\Untitled-3" buff "global" bufferset
 </PANES>
-<GEOMETRY X="955" Y="226" WIDTH="775" HEIGHT="509" EXT_STATE="0" />
+<GEOMETRY X="838" Y="163" WIDTH="775" HEIGHT="509" EXT_STATE="0" />
 </VIEW>
 </PERSPECTIVE>

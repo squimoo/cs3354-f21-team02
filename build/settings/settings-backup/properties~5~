@@ -1,5 +1,5 @@
 #jEdit properties
-#Wed Dec 15 00:38:40 CST 2021
+#Wed Dec 15 00:42:04 CST 2021
 firstTime=false
 helpviewer.extendedState=0
 helpviewer.height=539
@@ -17,5 +17,5 @@ search.wrap.toggle=false
 view.extendedState=0
 view.height=509
 view.width=775
-view.x=921
-view.y=195
+view.x=1005
+view.y=134
