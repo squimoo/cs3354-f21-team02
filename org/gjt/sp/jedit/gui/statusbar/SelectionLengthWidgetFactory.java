@@ -94,13 +94,13 @@ public class SelectionLengthWidgetFactory implements StatusWidgetFactory
 					int startLineOffset = textArea.getLineStartOffset(startLine);
 					int endLineOffset = textArea.getLineStartOffset(endLine);
 					int lines = endLine - startLine + 1;
-					int columns = (selectionEnd - endLineOffset) -
-						(selectionStart - startLineOffset);
+					int columns = (selectionEnd - endLineOffset) - (selectionStart - startLineOffset);
 					len = lines * columns;
 				}
 				else
 					len = selectionEnd - selectionStart;
 				selectionLength.setText(Integer.toString(len));
+
 			}
 		}
 

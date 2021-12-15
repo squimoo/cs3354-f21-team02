@@ -1,0 +1,6 @@
+[action]
+next-char
+prev-char
+next-line
+prev-line
+insert-newline-indent

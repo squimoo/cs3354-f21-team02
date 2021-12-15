@@ -400,6 +400,47 @@ public class StatusBar extends JPanel
 				buf.append(')');
 			}
 
+			//code for listing the number of words in the file
+			buf.append('(');
+			int wordCount = 0;
+			for(int i = 0; i < textArea.getLineCount(); i++){
+				//taking in each line and splitting by spaces
+				String[] wordCounter = textArea.getLineText(i).split(" ");
+				wordCount += wordCounter.length;//tracks total words countd
+
+				if(textArea.getCaretLine() == i){
+					int currentWordIndexOnLine = 0;
+					int wordPosition = 0;
+					//finding the caret's position with respect to the line it's on
+					for (int j = 0; j < wordCounter.length; j++) {
+						wordPosition += wordCounter[j].length() + 1;
+						if(wordCounter[j].length() == 1){
+							currentWordIndexOnLine = 1;
+						} else if(dot > wordPosition){
+							currentWordIndexOnLine++;
+						}
+					}
+
+					int checkWordsInLine = textArea.getLineText(textArea.getCaretLine()).split(" ").length;
+					//word counting conditions
+
+					if(textArea.getCaretLine() != 0 && checkWordsInLine == 1) {
+						//if the caret line is not the first line and there is only one word in the line
+						buf.append(currentWordIndexOnLine + wordCount);
+					} else if(textArea.getCaretLine() != 0){
+						//if the caret line is not the first line and there is more than one word in the line
+						buf.append(currentWordIndexOnLine + wordCount - 1);
+					} else {
+						//if the caret line is in the first line
+						buf.append(currentWordIndexOnLine + 1);
+					}
+				}
+			}
+
+			//append the total words to buf
+			buf.append('/');
+			buf.append(wordCount);
+			buf.append(')');
 			caretStatus.setText(buf.toString());
 			buf.setLength(0);
 		}
