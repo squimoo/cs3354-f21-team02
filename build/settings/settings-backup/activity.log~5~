@@ -1,39 +1,39 @@
-Log file created on Wed Dec 15 20:06:29 CST 2021
+Log file created on Wed Dec 15 20:07:02 CST 2021
 IMPORTANT:
 Because updating this file after every log message would kill
 performance, it will be *incomplete* unless you invoke the
 Utilities->Troubleshooting->Update Activity Log on Disk command!
-8:06:27 PM [main] [message] Log: When reporting bugs, please include the following information:
-8:06:27 PM [main] [message] Log: java.version=11.0.12
-8:06:27 PM [main] [message] Log: java.vm.version=11.0.12+8-LTS-237
-8:06:27 PM [main] [message] Log: java.vm.name=Java HotSpot(TM) 64-Bit Server VM
-8:06:27 PM [main] [message] Log: java.runtime.version=11.0.12+8-LTS-237
-8:06:27 PM [main] [message] Log: java.runtime.name=Java(TM) SE Runtime Environment
-8:06:27 PM [main] [message] Log: java.vendor=Oracle Corporation
-8:06:27 PM [main] [message] Log: java.compiler=null
-8:06:27 PM [main] [message] Log: os.name=Windows 10
-8:06:27 PM [main] [message] Log: os.version=10.0
-8:06:27 PM [main] [message] Log: os.arch=amd64
-8:06:27 PM [main] [message] Log: user.home=C:\Users\vedan
-8:06:27 PM [main] [message] Log: java.home=C:\Program Files\Java\jdk-11.0.12
-8:06:27 PM [main] [message] Log: java.class.path=C:\Users\vedan\Documents\GitHub\cs3354-f21-team02\build\classes\core;C:\Users\vedan\Documents\GitHub\cs3354-f21-team02\lib\compile\jsr305.jar;C:\Users\vedan\Documents\GitHub\cs3354-f21-team02\lib\runtime\jsr305.jar
-8:06:27 PM [main] [message] jEdit: starting with command line arguments: -settings=C:/Users/vedan/Documents/GitHub/cs3354-f21-team02/build/settings
-8:06:29 PM [main] [notice] jEdit: An error occurred while connecting to the jEdit server instance.
-8:06:29 PM [main] [notice] jEdit: This probably means that jEdit crashed and/or exited abnormally
-8:06:29 PM [main] [notice] jEdit: the last time it was run.
-8:06:29 PM [main] [notice] jEdit: If you don't know what this means, don't worry.
-8:06:29 PM [main] [notice] jEdit: java.net.ConnectException: Connection refused: connect
-8:06:29 PM [main] [notice] jEdit:  at java.base/java.net.PlainSocketImpl.connect0(Native Method)
-8:06:29 PM [main] [notice] jEdit:  at java.base/java.net.PlainSocketImpl.socketConnect(PlainSocketImpl.java:101)
-8:06:29 PM [main] [notice] jEdit:  at java.base/java.net.AbstractPlainSocketImpl.doConnect(AbstractPlainSocketImpl.java:399)
-8:06:29 PM [main] [notice] jEdit:  at java.base/java.net.AbstractPlainSocketImpl.connectToAddress(AbstractPlainSocketImpl.java:242)
-8:06:29 PM [main] [notice] jEdit:  at java.base/java.net.AbstractPlainSocketImpl.connect(AbstractPlainSocketImpl.java:224)
-8:06:29 PM [main] [notice] jEdit:  at java.base/java.net.SocksSocketImpl.connect(SocksSocketImpl.java:392)
-8:06:29 PM [main] [notice] jEdit:  at java.base/java.net.Socket.connect(Socket.java:608)
-8:06:29 PM [main] [notice] jEdit:  at java.base/java.net.Socket.connect(Socket.java:557)
-8:06:29 PM [main] [notice] jEdit:  at java.base/java.net.Socket.<init>(Socket.java:453)
-8:06:29 PM [main] [notice] jEdit:  at java.base/java.net.Socket.<init>(Socket.java:263)
-8:06:29 PM [main] [notice] jEdit:  at org.gjt.sp.jedit.jEdit.main(jEdit.java:308)
-8:06:29 PM [main] [debug] jEdit: before splash screen activation:2154 ms
-8:06:29 PM [main] [debug] jEdit: after splash screen activation:2350 ms
-8:06:29 PM [main] [debug] MiscUtilities: Saving backup of file "C:\Users\vedan\Documents\GitHub\cs3354-f21-team02\build\settings\activity.log" to "C:\Users\vedan\Documents\GitHub\cs3354-f21-team02\build\settings\settings-backup\activity.log~1~"
+8:06:59 PM [main] [message] Log: When reporting bugs, please include the following information:
+8:06:59 PM [main] [message] Log: java.version=11.0.12
+8:06:59 PM [main] [message] Log: java.vm.version=11.0.12+8-LTS-237
+8:06:59 PM [main] [message] Log: java.vm.name=Java HotSpot(TM) 64-Bit Server VM
+8:06:59 PM [main] [message] Log: java.runtime.version=11.0.12+8-LTS-237
+8:06:59 PM [main] [message] Log: java.runtime.name=Java(TM) SE Runtime Environment
+8:06:59 PM [main] [message] Log: java.vendor=Oracle Corporation
+8:06:59 PM [main] [message] Log: java.compiler=null
+8:06:59 PM [main] [message] Log: os.name=Windows 10
+8:06:59 PM [main] [message] Log: os.version=10.0
+8:06:59 PM [main] [message] Log: os.arch=amd64
+8:06:59 PM [main] [message] Log: user.home=C:\Users\vedan
+8:06:59 PM [main] [message] Log: java.home=C:\Program Files\Java\jdk-11.0.12
+8:06:59 PM [main] [message] Log: java.class.path=C:\Users\vedan\Documents\GitHub\cs3354-f21-team02\build\classes\core;C:\Users\vedan\Documents\GitHub\cs3354-f21-team02\lib\compile\jsr305.jar;C:\Users\vedan\Documents\GitHub\cs3354-f21-team02\lib\runtime\jsr305.jar
+8:06:59 PM [main] [message] jEdit: starting with command line arguments: -settings=C:/Users/vedan/Documents/GitHub/cs3354-f21-team02/build/settings
+8:07:01 PM [main] [notice] jEdit: An error occurred while connecting to the jEdit server instance.
+8:07:01 PM [main] [notice] jEdit: This probably means that jEdit crashed and/or exited abnormally
+8:07:01 PM [main] [notice] jEdit: the last time it was run.
+8:07:01 PM [main] [notice] jEdit: If you don't know what this means, don't worry.
+8:07:01 PM [main] [notice] jEdit: java.net.ConnectException: Connection refused: connect
+8:07:01 PM [main] [notice] jEdit:  at java.base/java.net.PlainSocketImpl.connect0(Native Method)
+8:07:01 PM [main] [notice] jEdit:  at java.base/java.net.PlainSocketImpl.socketConnect(PlainSocketImpl.java:101)
+8:07:01 PM [main] [notice] jEdit:  at java.base/java.net.AbstractPlainSocketImpl.doConnect(AbstractPlainSocketImpl.java:399)
+8:07:01 PM [main] [notice] jEdit:  at java.base/java.net.AbstractPlainSocketImpl.connectToAddress(AbstractPlainSocketImpl.java:242)
+8:07:01 PM [main] [notice] jEdit:  at java.base/java.net.AbstractPlainSocketImpl.connect(AbstractPlainSocketImpl.java:224)
+8:07:01 PM [main] [notice] jEdit:  at java.base/java.net.SocksSocketImpl.connect(SocksSocketImpl.java:392)
+8:07:01 PM [main] [notice] jEdit:  at java.base/java.net.Socket.connect(Socket.java:608)
+8:07:01 PM [main] [notice] jEdit:  at java.base/java.net.Socket.connect(Socket.java:557)
+8:07:01 PM [main] [notice] jEdit:  at java.base/java.net.Socket.<init>(Socket.java:453)
+8:07:01 PM [main] [notice] jEdit:  at java.base/java.net.Socket.<init>(Socket.java:263)
+8:07:01 PM [main] [notice] jEdit:  at org.gjt.sp.jedit.jEdit.main(jEdit.java:308)
+8:07:01 PM [main] [debug] jEdit: before splash screen activation:2173 ms
+8:07:02 PM [main] [debug] jEdit: after splash screen activation:2382 ms
+8:07:02 PM [main] [debug] MiscUtilities: Saving backup of file "C:\Users\vedan\Documents\GitHub\cs3354-f21-team02\build\settings\activity.log" to "C:\Users\vedan\Documents\GitHub\cs3354-f21-team02\build\settings\settings-backup\activity.log~1~"
