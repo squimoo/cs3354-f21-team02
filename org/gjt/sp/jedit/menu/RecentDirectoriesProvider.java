@@ -132,5 +132,13 @@ public class RecentDirectoriesProvider implements DynamicMenuProvider
 				menu.add(menuItems.elementAt(i));
 			}
 		}
+
+		//here is new code for deleting recent
+		JMenuItem menuItem = new JMenuItem("Clear Recent Directories");
+		//Model stored the list of directories, so clear model variable
+		menuItem.addActionListener(e -> model.clear());
+		menu.addSeparator();
+		menu.add(menuItem);
+		
 	} //}}}
 }

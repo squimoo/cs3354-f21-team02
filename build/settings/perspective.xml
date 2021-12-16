@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<!DOCTYPE PERSPECTIVE SYSTEM "perspective.dtd">
+<PERSPECTIVE>
+<BUFFER AUTORELOAD="TRUE" AUTORELOAD_DIALOG="TRUE" UNTITLED="FALSE">C:\Users\Derik\Documents\Archelos.txt</BUFFER>
+<BUFFER AUTORELOAD="TRUE" AUTORELOAD_DIALOG="TRUE" UNTITLED="FALSE">C:\Users\Derik\Documents\justinchat.txt</BUFFER>
+<BUFFER AUTORELOAD="TRUE" AUTORELOAD_DIALOG="TRUE" UNTITLED="FALSE">C:\Users\Derik\Documents\recycle flyer.xcf</BUFFER>
+<VIEW PLAIN="FALSE">
+<PANES>
+"C:\\Users\\Derik\\Documents\\Archelos.txt" buffer "C:\\Users\\Derik\\Documents\\Archelos.txt" buff "C:\\Users\\Derik\\Documents\\justinchat.txt" buff "C:\\Users\\Derik\\Documents\\recycle flyer.xcf" buff "global" bufferset
+</PANES>
+<GEOMETRY X="992" Y="252" WIDTH="768" HEIGHT="590" EXT_STATE="0" />
+</VIEW>
+</PERSPECTIVE>
