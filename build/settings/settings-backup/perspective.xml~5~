@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<!DOCTYPE PERSPECTIVE SYSTEM "perspective.dtd">
+<PERSPECTIVE>
+<BUFFER AUTORELOAD="TRUE" AUTORELOAD_DIALOG="TRUE" UNTITLED="FALSE">C:\Users\vedan\Documents\GitHub\cs3354-f21-team02\build.xml</BUFFER>
+<BUFFER AUTORELOAD="TRUE" AUTORELOAD_DIALOG="TRUE" UNTITLED="TRUE">C:\Users\vedan\Documents\GitHub\cs3354-f21-team02\Untitled-1</BUFFER>
+<VIEW PLAIN="FALSE">
+<PANES>
+"C:\\Users\\vedan\\Documents\\GitHub\\cs3354-f21-team02\\build.xml" buffer "C:\\Users\\vedan\\Documents\\GitHub\\cs3354-f21-team02\\build.xml" buff "C:\\Users\\vedan\\Documents\\GitHub\\cs3354-f21-team02\\Untitled-1" buff "global" bufferset
+</PANES>
+<GEOMETRY X="385" Y="114" WIDTH="766" HEIGHT="588" EXT_STATE="1" />
+</VIEW>
+</PERSPECTIVE>

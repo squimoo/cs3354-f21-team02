@@ -41,12 +41,7 @@ import javax.swing.plaf.LayerUI;
 import javax.swing.text.Segment;
 import javax.swing.text.TabExpander;
 
-import org.gjt.sp.jedit.Debug;
-import org.gjt.sp.jedit.IPropertyManager;
-import org.gjt.sp.jedit.JEditActionContext;
-import org.gjt.sp.jedit.JEditActionSet;
-import org.gjt.sp.jedit.JEditBeanShellAction;
-import org.gjt.sp.jedit.TextUtilities;
+import org.gjt.sp.jedit.*;
 import org.gjt.sp.jedit.buffer.JEditBuffer;
 import org.gjt.sp.jedit.input.AbstractInputHandler;
 import org.gjt.sp.jedit.input.DefaultInputHandlerProvider;
@@ -118,6 +113,7 @@ public abstract class TextArea extends JPanel
 		horizontal.setValues(0,0,0,0);
 		//}}}
 
+
 		//{{{ this ensures that the text area's look is slightly
 		// more consistent with the rest of the metal l&f.
 		// while it depends on not-so-well-documented portions
@@ -149,6 +145,12 @@ public abstract class TextArea extends JPanel
 		// (eg, from the recent file list)
 		focusedComponent = this;
 	} //}}}
+
+	public void hideScrollbars()
+	{
+		verticalBox.setPreferredSize(new Dimension(0,0));
+		horizontal.setPreferredSize(new Dimension(0,0));
+	}
 
 	//{{{ getFoldPainter() method
 	public FoldPainter getFoldPainter()

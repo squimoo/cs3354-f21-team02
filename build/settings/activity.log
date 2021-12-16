@@ -1,0 +1,140 @@
+Log file created on Wed Dec 15 20:20:30 CST 2021
+IMPORTANT:
+Because updating this file after every log message would kill
+performance, it will be *incomplete* unless you invoke the
+Utilities->Troubleshooting->Update Activity Log on Disk command!
+8:20:28 PM [main] [message] Log: When reporting bugs, please include the following information:
+8:20:28 PM [main] [message] Log: java.version=11.0.12
+8:20:28 PM [main] [message] Log: java.vm.version=11.0.12+8-LTS-237
+8:20:28 PM [main] [message] Log: java.vm.name=Java HotSpot(TM) 64-Bit Server VM
+8:20:28 PM [main] [message] Log: java.runtime.version=11.0.12+8-LTS-237
+8:20:28 PM [main] [message] Log: java.runtime.name=Java(TM) SE Runtime Environment
+8:20:28 PM [main] [message] Log: java.vendor=Oracle Corporation
+8:20:28 PM [main] [message] Log: java.compiler=null
+8:20:28 PM [main] [message] Log: os.name=Windows 10
+8:20:28 PM [main] [message] Log: os.version=10.0
+8:20:28 PM [main] [message] Log: os.arch=amd64
+8:20:28 PM [main] [message] Log: user.home=C:\Users\vedan
+8:20:28 PM [main] [message] Log: java.home=C:\Program Files\Java\jdk-11.0.12
+8:20:28 PM [main] [message] Log: java.class.path=C:\Users\vedan\Documents\GitHub\cs3354-f21-team02\build\classes\core;C:\Users\vedan\Documents\GitHub\cs3354-f21-team02\lib\compile\jsr305.jar;C:\Users\vedan\Documents\GitHub\cs3354-f21-team02\lib\runtime\jsr305.jar
+8:20:28 PM [main] [message] jEdit: starting with command line arguments: -settings=C:/Users/vedan/Documents/GitHub/cs3354-f21-team02/build/settings
+8:20:30 PM [main] [notice] jEdit: An error occurred while connecting to the jEdit server instance.
+8:20:30 PM [main] [notice] jEdit: This probably means that jEdit crashed and/or exited abnormally
+8:20:30 PM [main] [notice] jEdit: the last time it was run.
+8:20:30 PM [main] [notice] jEdit: If you don't know what this means, don't worry.
+8:20:30 PM [main] [notice] jEdit: java.net.ConnectException: Connection refused: connect
+8:20:30 PM [main] [notice] jEdit:  at java.base/java.net.PlainSocketImpl.connect0(Native Method)
+8:20:30 PM [main] [notice] jEdit:  at java.base/java.net.PlainSocketImpl.socketConnect(PlainSocketImpl.java:101)
+8:20:30 PM [main] [notice] jEdit:  at java.base/java.net.AbstractPlainSocketImpl.doConnect(AbstractPlainSocketImpl.java:399)
+8:20:30 PM [main] [notice] jEdit:  at java.base/java.net.AbstractPlainSocketImpl.connectToAddress(AbstractPlainSocketImpl.java:242)
+8:20:30 PM [main] [notice] jEdit:  at java.base/java.net.AbstractPlainSocketImpl.connect(AbstractPlainSocketImpl.java:224)
+8:20:30 PM [main] [notice] jEdit:  at java.base/java.net.SocksSocketImpl.connect(SocksSocketImpl.java:392)
+8:20:30 PM [main] [notice] jEdit:  at java.base/java.net.Socket.connect(Socket.java:608)
+8:20:30 PM [main] [notice] jEdit:  at java.base/java.net.Socket.connect(Socket.java:557)
+8:20:30 PM [main] [notice] jEdit:  at java.base/java.net.Socket.<init>(Socket.java:453)
+8:20:30 PM [main] [notice] jEdit:  at java.base/java.net.Socket.<init>(Socket.java:263)
+8:20:30 PM [main] [notice] jEdit:  at org.gjt.sp.jedit.jEdit.main(jEdit.java:308)
+8:20:30 PM [main] [debug] jEdit: before splash screen activation:2172 ms
+8:20:30 PM [main] [debug] jEdit: after splash screen activation:2375 ms
+8:20:30 PM [main] [debug] MiscUtilities: Saving backup of file "C:\Users\vedan\Documents\GitHub\cs3354-f21-team02\build\settings\activity.log" to "C:\Users\vedan\Documents\GitHub\cs3354-f21-team02\build\settings\settings-backup\activity.log~1~"
+8:20:30 PM [main] [notice] jEdit: jEdit version 5.6.0
+8:20:30 PM [main] [message] jEdit: Settings directory is C:\Users\vedan\Documents\GitHub\cs3354-f21-team02\build\settings
+8:20:30 PM [main] [message] jEdit: jEdit home directory is C:\Users\vedan\Documents\GitHub\cs3354-f21-team02
+8:20:30 PM [main] [debug] SplashScreen: init:16/168ms
+8:20:30 PM [main] [debug] SplashScreen: init system properties:16/184ms
+8:20:31 PM [main] [message] BeanShell: Beanshell Init
+8:20:31 PM [main] [debug] SplashScreen: init beanshell:78/262ms
+8:20:31 PM [main] [debug] SplashScreen: loading site properties:0/262ms
+8:20:31 PM [main] [debug] SplashScreen: loading user properties:16/278ms
+8:20:31 PM [main] [debug] GUIUtilities: Icon theme set to: tango
+8:20:31 PM [main] [debug] GUIUtilities: Loading icon theme from: jeditresource:/org/gjt/sp/jedit/icons/themes/tango/
+8:20:31 PM [main] [debug] SplashScreen: init GUI:0/278ms
+8:20:31 PM [main] [debug] EditServer: jEdit server started on port 54734
+8:20:31 PM [main] [debug] EditServer: Authorization key is 1237558580
+8:20:31 PM [main] [debug] SplashScreen: init server:0/278ms
+8:20:31 PM [main] [debug] jEdit: initPLAF non-edt old=javax.swing.plaf.metal.MetalLookAndFeel requested=null new=javax.swing.plaf.metal.MetalLookAndFeel
+8:20:31 PM [main] [debug] SplashScreen: init look and feel:16/294ms
+8:20:31 PM [main] [debug] SplashScreen: init VFS Manager:0/294ms
+8:20:31 PM [main] [debug] ActionSet: Loading actions from file:/C:/Users/vedan/Documents/GitHub/cs3354-f21-team02/build/classes/core/org/gjt/sp/jedit/actions.xml
+8:20:31 PM [main] [error] XMLUtilities: while parsing from java.io.BufferedInputStream@35ef1869: SAXParseException: line 1603: 
+8:20:31 PM [main] [error] XMLUtilities: org.xml.sax.SAXParseException; systemId: file:///C:/Users/vedan/Documents/GitHub/cs3354-f21-team02/jedit.jar; lineNumber: 1603; columnNumber: 3; The element type "ACTIONS" must be terminated by the matching end-tag "</ACTIONS>".
+8:20:31 PM [main] [error] XMLUtilities:  at java.xml/com.sun.org.apache.xerces.internal.util.ErrorHandlerWrapper.createSAXParseException(ErrorHandlerWrapper.java:204)
+8:20:31 PM [main] [error] XMLUtilities:  at java.xml/com.sun.org.apache.xerces.internal.util.ErrorHandlerWrapper.fatalError(ErrorHandlerWrapper.java:178)
+8:20:31 PM [main] [error] XMLUtilities:  at java.xml/com.sun.org.apache.xerces.internal.impl.XMLErrorReporter.reportError(XMLErrorReporter.java:400)
+8:20:31 PM [main] [error] XMLUtilities:  at java.xml/com.sun.org.apache.xerces.internal.impl.XMLErrorReporter.reportError(XMLErrorReporter.java:327)
+8:20:31 PM [main] [error] XMLUtilities:  at java.xml/com.sun.org.apache.xerces.internal.impl.XMLScanner.reportFatalError(XMLScanner.java:1471)
+8:20:31 PM [main] [error] XMLUtilities:  at java.xml/com.sun.org.apache.xerces.internal.impl.XMLDocumentFragmentScannerImpl.scanEndElement(XMLDocumentFragmentScannerImpl.java:1685)
+8:20:31 PM [main] [error] XMLUtilities:  at java.xml/com.sun.org.apache.xerces.internal.impl.XMLDocumentFragmentScannerImpl$FragmentContentDriver.next(XMLDocumentFragmentScannerImpl.java:2883)
+8:20:31 PM [main] [error] XMLUtilities:  at java.xml/com.sun.org.apache.xerces.internal.impl.XMLDocumentScannerImpl.next(XMLDocumentScannerImpl.java:605)
+8:20:31 PM [main] [error] XMLUtilities:  at java.xml/com.sun.org.apache.xerces.internal.impl.XMLDocumentFragmentScannerImpl.scanDocument(XMLDocumentFragmentScannerImpl.java:534)
+8:20:31 PM [main] [error] XMLUtilities:  at java.xml/com.sun.org.apache.xerces.internal.parsers.XML11Configuration.parse(XML11Configuration.java:888)
+8:20:31 PM [main] [error] XMLUtilities:  at java.xml/com.sun.org.apache.xerces.internal.parsers.XML11Configuration.parse(XML11Configuration.java:824)
+8:20:31 PM [main] [error] XMLUtilities:  at java.xml/com.sun.org.apache.xerces.internal.parsers.XMLParser.parse(XMLParser.java:141)
+8:20:31 PM [main] [error] XMLUtilities:  at java.xml/com.sun.org.apache.xerces.internal.parsers.AbstractSAXParser.parse(AbstractSAXParser.java:1216)
+8:20:31 PM [main] [error] XMLUtilities:  at java.xml/com.sun.org.apache.xerces.internal.jaxp.SAXParserImpl$JAXPSAXParser.parse(SAXParserImpl.java:635)
+8:20:31 PM [main] [error] XMLUtilities:  at org.gjt.sp.util.XMLUtilities.parseXML(XMLUtilities.java:142)
+8:20:31 PM [main] [error] XMLUtilities:  at org.gjt.sp.jedit.JEditActionSet.load(JEditActionSet.java:398)
+8:20:31 PM [main] [error] XMLUtilities:  at org.gjt.sp.jedit.jEdit.initResources(jEdit.java:3634)
+8:20:31 PM [main] [error] XMLUtilities:  at org.gjt.sp.jedit.jEdit.main(jEdit.java:478)
+8:20:31 PM [main] [error] ActionSet: Unable to parse: file:/C:/Users/vedan/Documents/GitHub/cs3354-f21-team02/build/classes/core/org/gjt/sp/jedit/actions.xml
+8:20:31 PM [main] [debug] DockableWindowManager: Loading dockables from file:/C:/Users/vedan/Documents/GitHub/cs3354-f21-team02/build/classes/core/org/gjt/sp/jedit/dockables.xml
+8:20:31 PM [main] [debug] SplashScreen: init resources:78/372ms
+8:20:31 PM [AWT-EventQueue-0] [debug] EditBus: SearchSettingsChanged[source=null]
+8:20:31 PM [main] [debug] SplashScreen: Migrate keymaps:48/420ms
+8:20:31 PM [main] [notice] jEdit: Loading plugins from C:\Users\vedan\Documents\GitHub\cs3354-f21-team02\jars
+8:20:31 PM [main] [notice] jEdit: Loading plugins from C:\Users\vedan\Documents\GitHub\cs3354-f21-team02\build\settings\jars
+8:20:31 PM [main] [debug] SplashScreen: init plugins:15/435ms
+8:20:31 PM [main] [message] HistoryModel: Loading history
+8:20:31 PM [main] [debug] SplashScreen: init history model:9/444ms
+8:20:31 PM [main] [message] BufferHistory: Loading C:\Users\vedan\Documents\GitHub\cs3354-f21-team02\build\settings\recent.xml
+8:20:31 PM [main] [debug] SplashScreen: init buffer history:0/444ms
+8:20:31 PM [main] [message] KillRing: Loading C:\Users\vedan\Documents\GitHub\cs3354-f21-team02\build\settings\killring.xml
+8:20:31 PM [main] [debug] SplashScreen: init killring:14/458ms
+8:20:31 PM [main] [debug] jEdit: initPLAF non-edt old=javax.swing.plaf.metal.MetalLookAndFeel requested=null new=javax.swing.plaf.metal.MetalLookAndFeel
+8:20:31 PM [main] [debug] jEdit: SOCKS proxy disabled
+8:20:31 PM [main] [debug] jEdit: HTTP proxy disabled
+8:20:31 PM [AWT-EventQueue-0] [debug] EditBus: PropertiesChanged[source=null]
+8:20:31 PM [main] [debug] SplashScreen: init various properties:77/535ms
+8:20:31 PM [main] [message] jEdit: Loading mode catalog file C:\Users\vedan\Documents\GitHub\cs3354-f21-team02\modes\catalog
+8:20:31 PM [main] [debug] jEdit: Loading user mode catalog
+8:20:31 PM [main] [message] jEdit: Loading mode catalog file C:\Users\vedan\Documents\GitHub\cs3354-f21-team02\build\settings\modes\catalog
+8:20:31 PM [main] [debug] SplashScreen: init modes:57/592ms
+8:20:31 PM [main] [debug] SplashScreen: activate plugins:6/598ms
+8:20:31 PM [main] [debug] Macros: Registered beanshell macro handler
+8:20:31 PM [AWT-EventQueue-0] [debug] EditBus: DynamicMenuChanged[menu=macros,source=null]
+8:20:31 PM [main] [debug] SplashScreen: init macros:24/622ms
+8:20:31 PM [main] [message] BeanShell: Running script C:\Users\vedan\Documents\GitHub\cs3354-f21-team02\startup\startup.bsh
+8:20:31 PM [main] [notice] jEdit$2: Loading edit mode C:\Users\vedan\Documents\GitHub\cs3354-f21-team02\modes\text.xml
+8:20:31 PM [main] [debug] String: BeanShell interpreter version 2.0b4-jedit
+8:20:31 PM [main] [debug] SplashScreen: run startup scripts:153/775ms
+8:20:31 PM [main] [debug] SplashScreen: run startup scripts:1/776ms
+8:20:31 PM [main] [debug] SplashScreen: run startup scripts:2/777ms
+8:20:31 PM [main] [debug] jEdit: main done:3036 ms
+8:20:31 PM [AWT-EventQueue-0] [message] PerspectiveManager: Loading C:\Users\vedan\Documents\GitHub\cs3354-f21-team02\build\settings\perspective.xml
+8:20:31 PM [AWT-EventQueue-0] [notice] jEdit$2: Loading edit mode C:\Users\vedan\Documents\GitHub\cs3354-f21-team02\modes\ant.xml
+8:20:31 PM [AWT-EventQueue-0] [debug] EditBus: BufferUpdate[what=PROPERTIES_CHANGED,view=null,source=build.xml (%USERPROFILE%\Documents\GitHub\cs3354-f21-team02\)]
+8:20:31 PM [AWT-EventQueue-0] [debug] EditBus: BufferUpdate[what=CREATED,view=null,source=build.xml (%USERPROFILE%\Documents\GitHub\cs3354-f21-team02\)]
+8:20:31 PM [AWT-EventQueue-0] [debug] EditBus: BufferUpdate[what=LOAD_STARTED,view=null,source=build.xml (%USERPROFILE%\Documents\GitHub\cs3354-f21-team02\)]
+8:20:31 PM [AWT-EventQueue-0] [debug] EditBus: BufferUpdate[what=LOADED,view=null,source=build.xml (%USERPROFILE%\Documents\GitHub\cs3354-f21-team02\)]
+8:20:31 PM [AWT-EventQueue-0] [debug] EditBus: BufferUpdate[what=PROPERTIES_CHANGED,view=null,source=Untitled-1 (%USERPROFILE%\Documents\GitHub\cs3354-f21-team02\)]
+8:20:31 PM [AWT-EventQueue-0] [debug] EditBus: BufferUpdate[what=CREATED,view=null,source=Untitled-1 (%USERPROFILE%\Documents\GitHub\cs3354-f21-team02\)]
+8:20:31 PM [AWT-EventQueue-0] [debug] EditBus: BufferUpdate[what=LOAD_STARTED,view=null,source=Untitled-1 (%USERPROFILE%\Documents\GitHub\cs3354-f21-team02\)]
+8:20:31 PM [AWT-EventQueue-0] [debug] EditBus: BufferUpdate[what=LOADED,view=null,source=Untitled-1 (%USERPROFILE%\Documents\GitHub\cs3354-f21-team02\)]
+8:20:31 PM [AWT-EventQueue-0] [debug] BufferSet: 355183424: addBufferSetListener org.gjt.sp.jedit.EditPane[inactive]
+8:20:31 PM [AWT-EventQueue-0] [debug] EditBus: BufferChanging[what=BUFFER_CHANGING,source=org.gjt.sp.jedit.EditPane[inactive]]
+8:20:31 PM [AWT-EventQueue-0] [debug] BufferSet: 355183424 addBufferAt(build.xml (%USERPROFILE%\Documents\GitHub\cs3354-f21-team02\),-1)
+8:20:31 PM [AWT-EventQueue-0] [debug] BufferSet: 355183424: Buffer added build.xml (%USERPROFILE%\Documents\GitHub\cs3354-f21-team02\) at 0
+8:20:31 PM [AWT-EventQueue-0] [debug] EditBus: EditPaneUpdate[what=CREATED,source=org.gjt.sp.jedit.EditPane[inactive]]
+8:20:31 PM [AWT-EventQueue-0] [debug] BufferSet: 355183424 addBufferAt(build.xml (%USERPROFILE%\Documents\GitHub\cs3354-f21-team02\),0)
+8:20:31 PM [AWT-EventQueue-0] [debug] BufferSet: 355183424 addBufferAt(build.xml (%USERPROFILE%\Documents\GitHub\cs3354-f21-team02\),1)
+8:20:31 PM [AWT-EventQueue-0] [debug] BufferSet: 355183424 addBufferAt(Untitled-1 (%USERPROFILE%\Documents\GitHub\cs3354-f21-team02\),2)
+8:20:31 PM [AWT-EventQueue-0] [debug] BufferSet: 355183424: Buffer added Untitled-1 (%USERPROFILE%\Documents\GitHub\cs3354-f21-team02\) at 1
+8:20:32 PM [AWT-EventQueue-0] [debug] EditBus: ViewUpdate[what=CREATED,source=org.gjt.sp.jedit.View[active]]
+8:20:32 PM [AWT-EventQueue-0] [debug] EditBus: EditorStarted[source=null]
+8:20:32 PM [AWT-EventQueue-0] [message] jEdit: Startup complete: 3647 ms
+8:20:32 PM [AWT-EventQueue-0] [debug] EditBus: ViewUpdate[what=VIEW_ACTIVATED,source=org.gjt.sp.jedit.View[active]]
+8:20:32 PM [AWT-EventQueue-0] [debug] JEditTextArea: InputMethodSupport is activated
+8:20:56 PM [AWT-EventQueue-0] [debug] EditBus: ViewUpdate[what=VIEW_ACTIVATED,source=org.gjt.sp.jedit.View[active]]
+8:20:56 PM [AWT-EventQueue-0] [debug] jEdit: checkBufferStatus for all buffers
+8:20:56 PM [AWT-EventQueue-0] [debug] EditBus: DynamicMenuChanged[menu=recent-files,source=null]
+8:21:01 PM [AWT-EventQueue-0] [debug] MiscUtilities: Saving backup of file "C:\Users\vedan\Documents\GitHub\cs3354-f21-team02\build\settings\perspective.xml" to "C:\Users\vedan\Documents\GitHub\cs3354-f21-team02\build\settings\settings-backup\perspective.xml~1~"
