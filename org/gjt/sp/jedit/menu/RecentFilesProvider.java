@@ -95,22 +95,24 @@ public class RecentFilesProvider implements DynamicMenuProvider
 				String typedText = text.getText();
 				boolean filter = (!typedText.isEmpty());
 				Pattern pattern = null;
+				String regex = typedText;
 				if (filter)
 				{
-					String regex = typedText;
 					if ((! typedText.contains("*")) && (! typedText.contains("?")))
 					{
 						// Old style (before jEdit 4.3pre18): Match start of file name
-						regex += "*";
+						//regex += "*";
+
 					}
-					pattern = Pattern.compile(StandardUtilities.globToRE(regex),
-						Pattern.CASE_INSENSITIVE);
+					//pattern = Pattern.compile(StandardUtilities.globToRE(regex), Pattern.CASE_INSENSITIVE);
 				}
 				try
 				{
 					for (JMenuItem recent : menuItems)
 					{
-						recent.setEnabled(!filter || pattern.matcher(recent.getText()).matches());
+						//recent.setEnabled(!filter || pattern.matcher(recent.getText()).matches());
+						recent.setEnabled(!filter || recent.getText().contains(regex));
+
 					}
 				}
 				catch(PatternSyntaxException re)

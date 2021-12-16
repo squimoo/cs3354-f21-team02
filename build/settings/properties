@@ -1,0 +1,26 @@
+#jEdit properties
+#Wed Dec 15 19:11:09 CST 2021
+firstTime=false
+helpviewer.extendedState=0
+helpviewer.height=539
+helpviewer.splitter=250
+helpviewer.width=766
+helpviewer.x=50
+helpviewer.y=50
+keymap.current=imported
+migration.step.checkFileStatus=true
+search.beanshell.toggle=false
+search.ignoreCase.toggle=false
+search.regexp.toggle=false
+search.wholeWord.toggle=false
+search.wrap.toggle=false
+vfs.browser.last-filter=*[^~\#]
+vfs.browser.modified.width=100
+vfs.browser.size.width=100
+vfs.browser.status.width=100
+vfs.browser.type.width=100
+view.extendedState=0
+view.height=590
+view.width=768
+view.x=830
+view.y=238

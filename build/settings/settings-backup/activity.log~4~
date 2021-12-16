@@ -1,0 +1,261 @@
+Log file created on Wed Dec 15 17:44:12 CST 2021
+IMPORTANT:
+Because updating this file after every log message would kill
+performance, it will be *incomplete* unless you invoke the
+Utilities->Troubleshooting->Update Activity Log on Disk command!
+5:44:12 PM [main] [message] Log: When reporting bugs, please include the following information:
+5:44:12 PM [main] [message] Log: java.version=11.0.13
+5:44:12 PM [main] [message] Log: java.vm.version=11.0.13+8-LTS
+5:44:12 PM [main] [message] Log: java.vm.name=OpenJDK 64-Bit Server VM
+5:44:12 PM [main] [message] Log: java.runtime.version=11.0.13+8-LTS
+5:44:12 PM [main] [message] Log: java.runtime.name=OpenJDK Runtime Environment
+5:44:12 PM [main] [message] Log: java.vendor=Amazon.com Inc.
+5:44:12 PM [main] [message] Log: java.compiler=null
+5:44:12 PM [main] [message] Log: os.name=Windows 10
+5:44:12 PM [main] [message] Log: os.version=10.0
+5:44:12 PM [main] [message] Log: os.arch=amd64
+5:44:12 PM [main] [message] Log: user.home=C:\Users\Derik
+5:44:12 PM [main] [message] Log: java.home=C:\Users\Derik\.jdks\corretto-11.0.13
+5:44:12 PM [main] [message] Log: java.class.path=C:\Users\Derik\Documents\GitHub\cs3354-f21-team02\build\classes\core;C:\Users\Derik\Documents\GitHub\cs3354-f21-team02\lib\compile\jsr305.jar;C:\Users\Derik\Documents\GitHub\cs3354-f21-team02\lib\runtime\jsr305.jar
+5:44:12 PM [main] [message] jEdit: starting with command line arguments: -settings=C:/Users/Derik/Documents/GitHub/cs3354-f21-team02/build/settings
+5:44:12 PM [main] [debug] jEdit: before splash screen activation:204 ms
+5:44:12 PM [main] [debug] jEdit: after splash screen activation:827 ms
+5:44:12 PM [main] [notice] jEdit: jEdit version 5.6.0
+5:44:12 PM [main] [message] jEdit: Settings directory is C:\Users\Derik\Documents\GitHub\cs3354-f21-team02\build\settings
+5:44:12 PM [main] [message] jEdit: jEdit home directory is C:\Users\Derik\Documents\GitHub\cs3354-f21-team02
+5:44:12 PM [main] [debug] SplashScreen: init:28/521ms
+5:44:12 PM [main] [debug] SplashScreen: init system properties:34/555ms
+5:44:12 PM [main] [message] BeanShell: Beanshell Init
+5:44:12 PM [main] [debug] SplashScreen: init beanshell:102/657ms
+5:44:12 PM [main] [debug] SplashScreen: loading site properties:3/660ms
+5:44:12 PM [main] [debug] SplashScreen: loading user properties:2/662ms
+5:44:12 PM [main] [debug] GUIUtilities: Icon theme set to: tango
+5:44:12 PM [main] [debug] GUIUtilities: Loading icon theme from: jeditresource:/org/gjt/sp/jedit/icons/themes/tango/
+5:44:12 PM [main] [debug] SplashScreen: init GUI:5/667ms
+5:44:12 PM [main] [debug] EditServer: jEdit server started on port 57315
+5:44:12 PM [main] [debug] EditServer: Authorization key is 676665241
+5:44:12 PM [main] [debug] SplashScreen: init server:4/671ms
+5:44:12 PM [main] [debug] jEdit: initPLAF non-edt old=javax.swing.plaf.metal.MetalLookAndFeel requested=null new=javax.swing.plaf.metal.MetalLookAndFeel
+5:44:12 PM [main] [debug] SplashScreen: init look and feel:11/682ms
+5:44:12 PM [main] [debug] SplashScreen: init VFS Manager:1/683ms
+5:44:12 PM [main] [debug] ActionSet: Loading actions from file:/C:/Users/Derik/Documents/GitHub/cs3354-f21-team02/build/classes/core/org/gjt/sp/jedit/actions.xml
+5:44:12 PM [main] [debug] DockableWindowManager: Loading dockables from file:/C:/Users/Derik/Documents/GitHub/cs3354-f21-team02/build/classes/core/org/gjt/sp/jedit/dockables.xml
+5:44:13 PM [main] [debug] SplashScreen: init resources:78/761ms
+5:44:13 PM [main] [debug] KeymapManagerImpl: copyKeymap(jEdit,imported)
+5:44:13 PM [main] [debug] KeymapManagerImpl: Copying C:\Users\Derik\Documents\GitHub\cs3354-f21-team02\keymaps\jEdit_keys.props to C:\Users\Derik\Documents\GitHub\cs3354-f21-team02\build\settings\keymaps\imported_keys.props
+5:44:13 PM [AWT-EventQueue-0] [debug] EditBus: SearchSettingsChanged[source=null]
+5:44:13 PM [main] [debug] SplashScreen: Migrate keymaps:72/833ms
+5:44:13 PM [main] [notice] jEdit: Loading plugins from C:\Users\Derik\Documents\GitHub\cs3354-f21-team02\jars
+5:44:13 PM [main] [notice] jEdit: Loading plugins from C:\Users\Derik\Documents\GitHub\cs3354-f21-team02\build\settings\jars
+5:44:13 PM [main] [debug] SplashScreen: init plugins:15/848ms
+5:44:13 PM [main] [debug] SplashScreen: init history model:4/852ms
+5:44:13 PM [main] [debug] SplashScreen: init buffer history:4/856ms
+5:44:13 PM [main] [debug] SplashScreen: init killring:2/858ms
+5:44:13 PM [main] [message] CheckFileStatus: Performing migration step: checkFileStatus
+5:44:13 PM [main] [debug] jEdit: initPLAF non-edt old=javax.swing.plaf.metal.MetalLookAndFeel requested=null new=javax.swing.plaf.metal.MetalLookAndFeel
+5:44:13 PM [main] [debug] jEdit: SOCKS proxy disabled
+5:44:13 PM [main] [debug] jEdit: HTTP proxy disabled
+5:44:13 PM [AWT-EventQueue-0] [debug] EditBus: PropertiesChanged[source=null]
+5:44:13 PM [main] [debug] SplashScreen: init various properties:101/959ms
+5:44:13 PM [main] [message] jEdit: Loading mode catalog file C:\Users\Derik\Documents\GitHub\cs3354-f21-team02\modes\catalog
+5:44:13 PM [main] [debug] jEdit: Loading user mode catalog
+5:44:13 PM [main] [debug] jEdit: The user mode path doesn't exist, creating it
+5:44:13 PM [main] [debug] SplashScreen: init modes:49/1008ms
+5:44:13 PM [main] [debug] SplashScreen: activate plugins:10/1018ms
+5:44:13 PM [main] [debug] Macros: Registered beanshell macro handler
+5:44:13 PM [AWT-EventQueue-0] [debug] EditBus: DynamicMenuChanged[menu=macros,source=null]
+5:44:13 PM [main] [debug] SplashScreen: init macros:24/1042ms
+5:44:13 PM [main] [message] BeanShell: Running script C:\Users\Derik\Documents\GitHub\cs3354-f21-team02\startup\startup.bsh
+5:44:13 PM [main] [notice] jEdit$2: Loading edit mode C:\Users\Derik\Documents\GitHub\cs3354-f21-team02\modes\text.xml
+5:44:13 PM [main] [debug] String: BeanShell interpreter version 2.0b4-jedit
+5:44:13 PM [main] [debug] SplashScreen: run startup scripts:239/1281ms
+5:44:13 PM [main] [debug] SplashScreen: run startup scripts:241/1283ms
+5:44:13 PM [main] [debug] SplashScreen: run startup scripts:243/1285ms
+5:44:13 PM [main] [debug] jEdit: main done:1663 ms
+5:44:13 PM [AWT-EventQueue-0] [debug] EditBus: BufferUpdate[what=PROPERTIES_CHANGED,view=null,source=Untitled-1 (%USERPROFILE%\Documents\GitHub\cs3354-f21-team02\)]
+5:44:13 PM [AWT-EventQueue-0] [debug] EditBus: BufferUpdate[what=CREATED,view=null,source=Untitled-1 (%USERPROFILE%\Documents\GitHub\cs3354-f21-team02\)]
+5:44:13 PM [AWT-EventQueue-0] [debug] EditBus: BufferUpdate[what=LOAD_STARTED,view=null,source=Untitled-1 (%USERPROFILE%\Documents\GitHub\cs3354-f21-team02\)]
+5:44:13 PM [AWT-EventQueue-0] [debug] EditBus: BufferUpdate[what=LOADED,view=null,source=Untitled-1 (%USERPROFILE%\Documents\GitHub\cs3354-f21-team02\)]
+5:44:13 PM [AWT-EventQueue-0] [debug] BufferSet: 1826503655: addBufferSetListener org.gjt.sp.jedit.EditPane[inactive]
+5:44:13 PM [AWT-EventQueue-0] [debug] EditBus: BufferChanging[what=BUFFER_CHANGING,source=org.gjt.sp.jedit.EditPane[inactive]]
+5:44:13 PM [AWT-EventQueue-0] [debug] BufferSet: 1826503655 addBufferAt(Untitled-1 (%USERPROFILE%\Documents\GitHub\cs3354-f21-team02\),-1)
+5:44:13 PM [AWT-EventQueue-0] [debug] BufferSet: 1826503655: Buffer added Untitled-1 (%USERPROFILE%\Documents\GitHub\cs3354-f21-team02\) at 0
+5:44:14 PM [AWT-EventQueue-0] [debug] EditBus: EditPaneUpdate[what=CREATED,source=org.gjt.sp.jedit.EditPane[inactive]]
+5:44:14 PM [AWT-EventQueue-0] [debug] EditBus: ViewUpdate[what=CREATED,source=org.gjt.sp.jedit.View[active]]
+5:44:14 PM [jEdit Worker #0] [error] HelpTOCLoader: java.io.FileNotFoundException: C:\Users\Derik\Documents\GitHub\cs3354-f21-team02\doc\whatsnew\toc.xml (The system cannot find the file specified)
+5:44:14 PM [jEdit Worker #0] [error] HelpTOCLoader:  at java.base/java.io.FileInputStream.open0(Native Method)
+5:44:14 PM [jEdit Worker #0] [error] HelpTOCLoader:  at java.base/java.io.FileInputStream.open(FileInputStream.java:219)
+5:44:14 PM [jEdit Worker #0] [error] HelpTOCLoader:  at java.base/java.io.FileInputStream.<init>(FileInputStream.java:157)
+5:44:14 PM [jEdit Worker #0] [error] HelpTOCLoader:  at java.base/java.io.FileInputStream.<init>(FileInputStream.java:112)
+5:44:14 PM [jEdit Worker #0] [error] HelpTOCLoader:  at java.base/sun.net.www.protocol.file.FileURLConnection.connect(FileURLConnection.java:86)
+5:44:14 PM [jEdit Worker #0] [error] HelpTOCLoader:  at java.base/sun.net.www.protocol.file.FileURLConnection.getInputStream(FileURLConnection.java:184)
+5:44:14 PM [jEdit Worker #0] [error] HelpTOCLoader:  at java.base/java.net.URL.openStream(URL.java:1165)
+5:44:14 PM [jEdit Worker #0] [error] HelpTOCLoader:  at org.gjt.sp.jedit.help.HelpTOCLoader.loadTOC(HelpTOCLoader.java:166)
+5:44:14 PM [jEdit Worker #0] [error] HelpTOCLoader:  at org.gjt.sp.jedit.help.HelpTOCLoader.createTOC(HelpTOCLoader.java:117)
+5:44:14 PM [jEdit Worker #0] [error] HelpTOCLoader:  at org.gjt.sp.jedit.help.HelpTOCPanel.lambda$load$1(HelpTOCPanel.java:100)
+5:44:14 PM [jEdit Worker #0] [error] HelpTOCLoader:  at org.gjt.sp.util.TaskManager$MyTask._run(TaskManager.java:244)
+5:44:14 PM [jEdit Worker #0] [error] HelpTOCLoader:  at org.gjt.sp.util.Task.run(Task.java:65)
+5:44:14 PM [jEdit Worker #0] [error] HelpTOCLoader:  at java.base/java.util.concurrent.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1128)
+5:44:14 PM [jEdit Worker #0] [error] HelpTOCLoader:  at java.base/java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:628)
+5:44:14 PM [jEdit Worker #0] [error] HelpTOCLoader:  at java.base/java.lang.Thread.run(Thread.java:829)
+5:44:14 PM [jEdit Worker #0] [error] HelpTOCLoader: java.io.FileNotFoundException: C:\Users\Derik\Documents\GitHub\cs3354-f21-team02\doc\users-guide\toc.xml (The system cannot find the file specified)
+5:44:14 PM [jEdit Worker #0] [error] HelpTOCLoader:  at java.base/java.io.FileInputStream.open0(Native Method)
+5:44:14 PM [jEdit Worker #0] [error] HelpTOCLoader:  at java.base/java.io.FileInputStream.open(FileInputStream.java:219)
+5:44:14 PM [jEdit Worker #0] [error] HelpTOCLoader:  at java.base/java.io.FileInputStream.<init>(FileInputStream.java:157)
+5:44:14 PM [jEdit Worker #0] [error] HelpTOCLoader:  at java.base/java.io.FileInputStream.<init>(FileInputStream.java:112)
+5:44:14 PM [jEdit Worker #0] [error] HelpTOCLoader:  at java.base/sun.net.www.protocol.file.FileURLConnection.connect(FileURLConnection.java:86)
+5:44:14 PM [jEdit Worker #0] [error] HelpTOCLoader:  at java.base/sun.net.www.protocol.file.FileURLConnection.getInputStream(FileURLConnection.java:184)
+5:44:14 PM [jEdit Worker #0] [error] HelpTOCLoader:  at java.base/java.net.URL.openStream(URL.java:1165)
+5:44:14 PM [jEdit Worker #0] [error] HelpTOCLoader:  at org.gjt.sp.jedit.help.HelpTOCLoader.loadTOC(HelpTOCLoader.java:166)
+5:44:14 PM [jEdit Worker #0] [error] HelpTOCLoader:  at org.gjt.sp.jedit.help.HelpTOCLoader.createTOC(HelpTOCLoader.java:118)
+5:44:14 PM [jEdit Worker #0] [error] HelpTOCLoader:  at org.gjt.sp.jedit.help.HelpTOCPanel.lambda$load$1(HelpTOCPanel.java:100)
+5:44:14 PM [jEdit Worker #0] [error] HelpTOCLoader:  at org.gjt.sp.util.TaskManager$MyTask._run(TaskManager.java:244)
+5:44:14 PM [jEdit Worker #0] [error] HelpTOCLoader:  at org.gjt.sp.util.Task.run(Task.java:65)
+5:44:14 PM [jEdit Worker #0] [error] HelpTOCLoader:  at java.base/java.util.concurrent.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1128)
+5:44:14 PM [jEdit Worker #0] [error] HelpTOCLoader:  at java.base/java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:628)
+5:44:14 PM [jEdit Worker #0] [error] HelpTOCLoader:  at java.base/java.lang.Thread.run(Thread.java:829)
+5:44:14 PM [jEdit Worker #0] [error] HelpTOCLoader: java.io.FileNotFoundException: C:\Users\Derik\Documents\GitHub\cs3354-f21-team02\doc\FAQ\toc.xml (The system cannot find the file specified)
+5:44:14 PM [jEdit Worker #0] [error] HelpTOCLoader:  at java.base/java.io.FileInputStream.open0(Native Method)
+5:44:14 PM [jEdit Worker #0] [error] HelpTOCLoader:  at java.base/java.io.FileInputStream.open(FileInputStream.java:219)
+5:44:14 PM [jEdit Worker #0] [error] HelpTOCLoader:  at java.base/java.io.FileInputStream.<init>(FileInputStream.java:157)
+5:44:14 PM [jEdit Worker #0] [error] HelpTOCLoader:  at java.base/java.io.FileInputStream.<init>(FileInputStream.java:112)
+5:44:14 PM [jEdit Worker #0] [error] HelpTOCLoader:  at java.base/sun.net.www.protocol.file.FileURLConnection.connect(FileURLConnection.java:86)
+5:44:14 PM [jEdit Worker #0] [error] HelpTOCLoader:  at java.base/sun.net.www.protocol.file.FileURLConnection.getInputStream(FileURLConnection.java:184)
+5:44:14 PM [jEdit Worker #0] [error] HelpTOCLoader:  at java.base/java.net.URL.openStream(URL.java:1165)
+5:44:14 PM [jEdit Worker #0] [error] HelpTOCLoader:  at org.gjt.sp.jedit.help.HelpTOCLoader.loadTOC(HelpTOCLoader.java:166)
+5:44:14 PM [jEdit Worker #0] [error] HelpTOCLoader:  at org.gjt.sp.jedit.help.HelpTOCLoader.createTOC(HelpTOCLoader.java:119)
+5:44:14 PM [jEdit Worker #0] [error] HelpTOCLoader:  at org.gjt.sp.jedit.help.HelpTOCPanel.lambda$load$1(HelpTOCPanel.java:100)
+5:44:14 PM [jEdit Worker #0] [error] HelpTOCLoader:  at org.gjt.sp.util.TaskManager$MyTask._run(TaskManager.java:244)
+5:44:14 PM [jEdit Worker #0] [error] HelpTOCLoader:  at org.gjt.sp.util.Task.run(Task.java:65)
+5:44:14 PM [jEdit Worker #0] [error] HelpTOCLoader:  at java.base/java.util.concurrent.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1128)
+5:44:14 PM [jEdit Worker #0] [error] HelpTOCLoader:  at java.base/java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:628)
+5:44:14 PM [jEdit Worker #0] [error] HelpTOCLoader:  at java.base/java.lang.Thread.run(Thread.java:829)
+5:44:14 PM [jEdit Worker #0] [notice] HelpTOCLoader: The API docs for jEdit will not be available (reinstall jEdit if you want them)
+5:44:14 PM [AWT-EventQueue-0] [debug] EditBus: EditorStarted[source=null]
+5:44:14 PM [AWT-EventQueue-0] [message] jEdit: Startup complete: 2454 ms
+5:44:14 PM [AWT-EventQueue-0] [debug] EditBus: ViewUpdate[what=VIEW_ACTIVATED,source=org.gjt.sp.jedit.View[active]]
+5:44:14 PM [AWT-EventQueue-0] [debug] JEditTextArea: InputMethodSupport is activated
+5:44:32 PM [AWT-EventQueue-0] [debug] EditBus: ViewUpdate[what=VIEW_ACTIVATED,source=org.gjt.sp.jedit.View[active]]
+5:44:32 PM [AWT-EventQueue-0] [debug] jEdit: checkBufferStatus for all buffers
+5:44:37 PM [AWT-EventQueue-0] [debug] EditBus: PositionChanging[what=POSITION_CHANGING,source=org.gjt.sp.jedit.EditPane[active]]
+5:44:38 PM [AWT-EventQueue-0] [debug] ActionSet: Loading actions from file:/C:/Users/Derik/Documents/GitHub/cs3354-f21-team02/build/classes/core/org/gjt/sp/jedit/browser.actions.xml
+5:44:38 PM [AWT-EventQueue-0] [debug] EditBus: DockableWindowUpdate[what=ACTIVATED,dockable=vfs.browser,source=org.gjt.sp.jedit.gui.DockableWindowManagerImpl[,0,36,752x468,invalid,layout=org.gjt.sp.jedit.gui.DockableLayout,alignmentX=0.0,alignmentY=0.0,border=,flags=9,maximumSize=,minimumSize=,preferredSize=]]
+5:44:38 PM [AWT-EventQueue-0] [debug] EditBus: DockableWindowUpdate[what=DEACTIVATED,dockable=vfs.browser,source=org.gjt.sp.jedit.gui.DockableWindowManagerImpl[,0,36,752x468,invalid,layout=org.gjt.sp.jedit.gui.DockableLayout,alignmentX=0.0,alignmentY=0.0,border=,flags=9,maximumSize=,minimumSize=,preferredSize=]]
+5:44:40 PM [AWT-EventQueue-0] [debug] EditBus: DockableWindowUpdate[what=ACTIVATED,dockable=vfs.browser,source=org.gjt.sp.jedit.gui.DockableWindowManagerImpl[,0,36,752x468,invalid,layout=org.gjt.sp.jedit.gui.DockableLayout,alignmentX=0.0,alignmentY=0.0,border=,flags=9,maximumSize=,minimumSize=,preferredSize=]]
+5:44:45 PM [AWT-EventQueue-0] [debug] EditBus: VFSPathSelected[source=org.gjt.sp.jedit.View[active]]
+5:44:46 PM [AWT-EventQueue-0] [debug] EditBus: VFSPathSelected[source=org.gjt.sp.jedit.View[active]]
+5:44:46 PM [AWT-EventQueue-0] [debug] EditBus: BufferUpdate[what=LOAD_STARTED,view=org.gjt.sp.jedit.View[active],source=justinchat.txt (%USERPROFILE%\Documents\)]
+5:44:46 PM [AWT-EventQueue-0] [debug] BufferSet: 1826503655 addBufferAt(justinchat.txt (%USERPROFILE%\Documents\),-1)
+5:44:46 PM [AWT-EventQueue-0] [debug] BufferSet: 1826503655: Buffer added justinchat.txt (%USERPROFILE%\Documents\) at 0
+5:44:46 PM [AWT-EventQueue-0] [debug] BufferSetManager: removeBuffer(BufferSet[nbBuffers=2],Untitled-1 (%USERPROFILE%\Documents\GitHub\cs3354-f21-team02\))
+5:44:46 PM [AWT-EventQueue-0] [debug] BufferSet: 1826503655: Buffer removed Untitled-1 (%USERPROFILE%\Documents\GitHub\cs3354-f21-team02\)
+5:44:46 PM [AWT-EventQueue-0] [debug] EditBus: BufferChanging[what=BUFFER_CHANGING,source=org.gjt.sp.jedit.EditPane[active]]
+5:44:46 PM [AWT-EventQueue-0] [debug] EditBus: EditPaneUpdate[what=BUFFER_CHANGED,source=org.gjt.sp.jedit.EditPane[active]]
+5:44:46 PM [AWT-EventQueue-0] [debug] BufferSetManager: Buffer:Untitled-1 (%USERPROFILE%\Documents\GitHub\cs3354-f21-team02\) is in no bufferSet anymore, closing it
+5:44:46 PM [AWT-EventQueue-0] [debug] EditBus: BufferUpdate[what=CLOSING,view=null,source=Untitled-1 (%USERPROFILE%\Documents\GitHub\cs3354-f21-team02\)]
+5:44:46 PM [AWT-EventQueue-0] [debug] EditBus: BufferUpdate[what=CLOSED,view=null,source=Untitled-1 (%USERPROFILE%\Documents\GitHub\cs3354-f21-team02\)]
+5:44:46 PM [AWT-EventQueue-0] [debug] EditBus: BufferUpdate[what=CREATED,view=org.gjt.sp.jedit.View[active],source=justinchat.txt (%USERPROFILE%\Documents\)]
+5:44:46 PM [AWT-EventQueue-0] [debug] EditBus: BufferUpdate[what=PROPERTIES_CHANGED,view=null,source=justinchat.txt (%USERPROFILE%\Documents\)]
+5:44:46 PM [AWT-EventQueue-0] [debug] EditBus: BufferUpdate[what=LOADED,view=org.gjt.sp.jedit.View[active],source=justinchat.txt (%USERPROFILE%\Documents\)]
+5:44:54 PM [AWT-EventQueue-0] [debug] EditBus: VFSPathSelected[source=org.gjt.sp.jedit.View[active]]
+5:44:54 PM [AWT-EventQueue-0] [debug] EditBus: VFSPathSelected[source=org.gjt.sp.jedit.View[active]]
+5:44:54 PM [AWT-EventQueue-0] [debug] EditBus: BufferUpdate[what=LOAD_STARTED,view=org.gjt.sp.jedit.View[active],source=Archelos.txt (%USERPROFILE%\Documents\)]
+5:44:54 PM [AWT-EventQueue-0] [debug] BufferSet: 1826503655 addBufferAt(Archelos.txt (%USERPROFILE%\Documents\),-1)
+5:44:54 PM [AWT-EventQueue-0] [debug] BufferSet: 1826503655: Buffer added Archelos.txt (%USERPROFILE%\Documents\) at 0
+5:44:54 PM [AWT-EventQueue-0] [debug] EditBus: BufferUpdate[what=CREATED,view=org.gjt.sp.jedit.View[active],source=Archelos.txt (%USERPROFILE%\Documents\)]
+5:44:54 PM [AWT-EventQueue-0] [debug] EditBus: BufferChanging[what=BUFFER_CHANGING,source=org.gjt.sp.jedit.EditPane[active]]
+5:44:54 PM [AWT-EventQueue-0] [debug] EditBus: DynamicMenuChanged[menu=recent-files,source=null]
+5:44:54 PM [AWT-EventQueue-0] [debug] EditBus: EditPaneUpdate[what=BUFFER_CHANGED,source=org.gjt.sp.jedit.EditPane[active]]
+5:44:55 PM [AWT-EventQueue-0] [debug] EditBus: BufferUpdate[what=PROPERTIES_CHANGED,view=null,source=Archelos.txt (%USERPROFILE%\Documents\)]
+5:44:55 PM [AWT-EventQueue-0] [debug] EditBus: BufferUpdate[what=LOADED,view=org.gjt.sp.jedit.View[active],source=Archelos.txt (%USERPROFILE%\Documents\)]
+5:45:13 PM [AWT-EventQueue-0] [debug] MiscUtilities: Saving backup of file "C:\Users\Derik\Documents\GitHub\cs3354-f21-team02\build\settings\perspective.xml" to "C:\Users\Derik\Documents\GitHub\cs3354-f21-team02\build\settings\settings-backup\perspective.xml~1~"
+5:45:13 PM [AWT-EventQueue-0] [debug] EditBus: VFSPathSelected[source=org.gjt.sp.jedit.View[active]]
+5:45:22 PM [AWT-EventQueue-0] [debug] EditBus: VFSPathSelected[source=org.gjt.sp.jedit.View[active]]
+5:45:22 PM [AWT-EventQueue-0] [debug] EditBus: VFSPathSelected[source=org.gjt.sp.jedit.View[active]]
+5:45:22 PM [AWT-EventQueue-0] [debug] EditBus: BufferUpdate[what=LOAD_STARTED,view=org.gjt.sp.jedit.View[active],source=char.txt (%USERPROFILE%\Desktop\)]
+5:45:22 PM [AWT-EventQueue-0] [debug] BufferSet: 1826503655 addBufferAt(char.txt (%USERPROFILE%\Desktop\),-1)
+5:45:22 PM [AWT-EventQueue-0] [debug] BufferSet: 1826503655: Buffer added char.txt (%USERPROFILE%\Desktop\) at 1
+5:45:22 PM [AWT-EventQueue-0] [debug] EditBus: BufferUpdate[what=CREATED,view=org.gjt.sp.jedit.View[active],source=char.txt (%USERPROFILE%\Desktop\)]
+5:45:22 PM [AWT-EventQueue-0] [debug] EditBus: BufferChanging[what=BUFFER_CHANGING,source=org.gjt.sp.jedit.EditPane[active]]
+5:45:22 PM [AWT-EventQueue-0] [debug] EditBus: DynamicMenuChanged[menu=recent-files,source=null]
+5:45:22 PM [AWT-EventQueue-0] [debug] EditBus: EditPaneUpdate[what=BUFFER_CHANGED,source=org.gjt.sp.jedit.EditPane[active]]
+5:45:22 PM [AWT-EventQueue-0] [debug] EditBus: BufferUpdate[what=PROPERTIES_CHANGED,view=null,source=char.txt (%USERPROFILE%\Desktop\)]
+5:45:22 PM [AWT-EventQueue-0] [debug] EditBus: BufferUpdate[what=LOADED,view=org.gjt.sp.jedit.View[active],source=char.txt (%USERPROFILE%\Desktop\)]
+5:45:24 PM [AWT-EventQueue-0] [debug] EditBus: VFSPathSelected[source=org.gjt.sp.jedit.View[active]]
+5:45:24 PM [AWT-EventQueue-0] [debug] EditBus: VFSPathSelected[source=org.gjt.sp.jedit.View[active]]
+5:45:24 PM [AWT-EventQueue-0] [debug] EditBus: BufferUpdate[what=LOAD_STARTED,view=org.gjt.sp.jedit.View[active],source=cardkingdom.txt (%USERPROFILE%\Desktop\)]
+5:45:24 PM [AWT-EventQueue-0] [debug] BufferSet: 1826503655 addBufferAt(cardkingdom.txt (%USERPROFILE%\Desktop\),-1)
+5:45:24 PM [AWT-EventQueue-0] [debug] BufferSet: 1826503655: Buffer added cardkingdom.txt (%USERPROFILE%\Desktop\) at 1
+5:45:24 PM [AWT-EventQueue-0] [debug] EditBus: BufferUpdate[what=CREATED,view=org.gjt.sp.jedit.View[active],source=cardkingdom.txt (%USERPROFILE%\Desktop\)]
+5:45:24 PM [AWT-EventQueue-0] [debug] EditBus: BufferChanging[what=BUFFER_CHANGING,source=org.gjt.sp.jedit.EditPane[active]]
+5:45:24 PM [AWT-EventQueue-0] [debug] EditBus: DynamicMenuChanged[menu=recent-files,source=null]
+5:45:24 PM [AWT-EventQueue-0] [debug] EditBus: EditPaneUpdate[what=BUFFER_CHANGED,source=org.gjt.sp.jedit.EditPane[active]]
+5:45:24 PM [AWT-EventQueue-0] [debug] EditBus: BufferUpdate[what=PROPERTIES_CHANGED,view=null,source=cardkingdom.txt (%USERPROFILE%\Desktop\)]
+5:45:24 PM [AWT-EventQueue-0] [debug] EditBus: BufferUpdate[what=LOADED,view=org.gjt.sp.jedit.View[active],source=cardkingdom.txt (%USERPROFILE%\Desktop\)]
+5:45:30 PM [AWT-EventQueue-0] [debug] EditBus: VFSPathSelected[source=org.gjt.sp.jedit.View[active]]
+5:45:30 PM [AWT-EventQueue-0] [debug] EditBus: VFSPathSelected[source=org.gjt.sp.jedit.View[active]]
+5:45:30 PM [AWT-EventQueue-0] [debug] EditBus: BufferUpdate[what=LOAD_STARTED,view=org.gjt.sp.jedit.View[active],source=file.txt (%USERPROFILE%\Desktop\)]
+5:45:30 PM [AWT-EventQueue-0] [debug] BufferSet: 1826503655 addBufferAt(file.txt (%USERPROFILE%\Desktop\),-1)
+5:45:30 PM [AWT-EventQueue-0] [debug] BufferSet: 1826503655: Buffer added file.txt (%USERPROFILE%\Desktop\) at 3
+5:45:30 PM [AWT-EventQueue-0] [debug] EditBus: BufferUpdate[what=CREATED,view=org.gjt.sp.jedit.View[active],source=file.txt (%USERPROFILE%\Desktop\)]
+5:45:30 PM [AWT-EventQueue-0] [debug] EditBus: BufferChanging[what=BUFFER_CHANGING,source=org.gjt.sp.jedit.EditPane[active]]
+5:45:30 PM [AWT-EventQueue-0] [debug] EditBus: DynamicMenuChanged[menu=recent-files,source=null]
+5:45:30 PM [AWT-EventQueue-0] [debug] EditBus: EditPaneUpdate[what=BUFFER_CHANGED,source=org.gjt.sp.jedit.EditPane[active]]
+5:45:30 PM [AWT-EventQueue-0] [debug] EditBus: BufferUpdate[what=PROPERTIES_CHANGED,view=null,source=file.txt (%USERPROFILE%\Desktop\)]
+5:45:30 PM [AWT-EventQueue-0] [debug] EditBus: BufferUpdate[what=LOADED,view=org.gjt.sp.jedit.View[active],source=file.txt (%USERPROFILE%\Desktop\)]
+5:45:34 PM [AWT-EventQueue-0] [debug] EditBus: VFSPathSelected[source=org.gjt.sp.jedit.View[active]]
+5:45:35 PM [AWT-EventQueue-0] [debug] EditBus: VFSPathSelected[source=org.gjt.sp.jedit.View[active]]
+5:45:35 PM [AWT-EventQueue-0] [debug] EditBus: BufferUpdate[what=LOAD_STARTED,view=org.gjt.sp.jedit.View[active],source=Lands.txt (%USERPROFILE%\Desktop\)]
+5:45:35 PM [AWT-EventQueue-0] [debug] BufferSet: 1826503655 addBufferAt(Lands.txt (%USERPROFILE%\Desktop\),-1)
+5:45:35 PM [AWT-EventQueue-0] [debug] BufferSet: 1826503655: Buffer added Lands.txt (%USERPROFILE%\Desktop\) at 5
+5:45:35 PM [AWT-EventQueue-0] [debug] EditBus: BufferUpdate[what=CREATED,view=org.gjt.sp.jedit.View[active],source=Lands.txt (%USERPROFILE%\Desktop\)]
+5:45:35 PM [AWT-EventQueue-0] [debug] EditBus: BufferChanging[what=BUFFER_CHANGING,source=org.gjt.sp.jedit.EditPane[active]]
+5:45:35 PM [AWT-EventQueue-0] [debug] EditBus: DynamicMenuChanged[menu=recent-files,source=null]
+5:45:35 PM [AWT-EventQueue-0] [debug] EditBus: EditPaneUpdate[what=BUFFER_CHANGED,source=org.gjt.sp.jedit.EditPane[active]]
+5:45:35 PM [AWT-EventQueue-0] [debug] EditBus: BufferUpdate[what=PROPERTIES_CHANGED,view=null,source=Lands.txt (%USERPROFILE%\Desktop\)]
+5:45:35 PM [AWT-EventQueue-0] [debug] EditBus: BufferUpdate[what=LOADED,view=org.gjt.sp.jedit.View[active],source=Lands.txt (%USERPROFILE%\Desktop\)]
+5:45:43 PM [AWT-EventQueue-0] [debug] MiscUtilities: Saving backup of file "C:\Users\Derik\Documents\GitHub\cs3354-f21-team02\build\settings\perspective.xml" to "C:\Users\Derik\Documents\GitHub\cs3354-f21-team02\build\settings\settings-backup\perspective.xml~1~"
+5:48:51 PM [AWT-EventQueue-0] [debug] EditBus: ViewUpdate[what=VIEW_ACTIVATED,source=org.gjt.sp.jedit.View[active]]
+5:48:51 PM [AWT-EventQueue-0] [debug] jEdit: checkBufferStatus for all buffers
+5:48:51 PM [AWT-EventQueue-0] [debug] EditBus: DynamicMenuChanged[menu=recent-files,source=null]
+5:52:06 PM [AWT-EventQueue-0] [debug] EditBus: ViewUpdate[what=VIEW_ACTIVATED,source=org.gjt.sp.jedit.View[active]]
+5:52:06 PM [AWT-EventQueue-0] [debug] jEdit: checkBufferStatus for all buffers
+5:52:06 PM [AWT-EventQueue-0] [debug] EditBus: DynamicMenuChanged[menu=recent-files,source=null]
+5:53:42 PM [AWT-EventQueue-0] [debug] EditBus: ViewUpdate[what=VIEW_ACTIVATED,source=org.gjt.sp.jedit.View[active]]
+5:53:42 PM [AWT-EventQueue-0] [debug] jEdit: checkBufferStatus for all buffers
+5:53:42 PM [AWT-EventQueue-0] [debug] EditBus: DynamicMenuChanged[menu=recent-files,source=null]
+5:55:25 PM [AWT-EventQueue-0] [debug] EditBus: ViewUpdate[what=VIEW_ACTIVATED,source=org.gjt.sp.jedit.View[active]]
+5:55:25 PM [AWT-EventQueue-0] [debug] jEdit: checkBufferStatus for all buffers
+5:55:25 PM [AWT-EventQueue-0] [debug] EditBus: DynamicMenuChanged[menu=recent-files,source=null]
+5:58:34 PM [AWT-EventQueue-0] [debug] EditBus: ViewUpdate[what=VIEW_ACTIVATED,source=org.gjt.sp.jedit.View[active]]
+5:58:34 PM [AWT-EventQueue-0] [debug] jEdit: checkBufferStatus for all buffers
+5:58:34 PM [AWT-EventQueue-0] [debug] EditBus: DynamicMenuChanged[menu=recent-files,source=null]
+6:04:31 PM [AWT-EventQueue-0] [debug] EditBus: ViewUpdate[what=VIEW_ACTIVATED,source=org.gjt.sp.jedit.View[active]]
+6:04:31 PM [AWT-EventQueue-0] [debug] jEdit: checkBufferStatus for all buffers
+6:04:31 PM [AWT-EventQueue-0] [debug] EditBus: DynamicMenuChanged[menu=recent-files,source=null]
+6:16:31 PM [AWT-EventQueue-0] [debug] EditBus: ViewUpdate[what=VIEW_ACTIVATED,source=org.gjt.sp.jedit.View[active]]
+6:16:31 PM [AWT-EventQueue-0] [debug] jEdit: checkBufferStatus for all buffers
+6:16:31 PM [AWT-EventQueue-0] [debug] EditBus: DynamicMenuChanged[menu=recent-files,source=null]
+6:16:39 PM [AWT-EventQueue-0] [debug] EditBus: EditorExitRequested[source=org.gjt.sp.jedit.View[active]]
+6:16:39 PM [AWT-EventQueue-0] [message] PerspectiveManager: Saving C:\Users\Derik\Documents\GitHub\cs3354-f21-team02\build\settings\perspective.xml
+6:16:39 PM [AWT-EventQueue-0] [debug] MiscUtilities: Saving backup of file "C:\Users\Derik\Documents\GitHub\cs3354-f21-team02\build\settings\perspective.xml" to "C:\Users\Derik\Documents\GitHub\cs3354-f21-team02\build\settings\settings-backup\perspective.xml~1~"
+6:16:39 PM [AWT-EventQueue-0] [debug] EditBus: DynamicMenuChanged[menu=recent-files,source=null]
+6:16:39 PM [AWT-EventQueue-0] [debug] EditBus: EditorExiting[source=null]
+6:16:39 PM [AWT-EventQueue-0] [debug] EditBus: ViewUpdate[what=CLOSED,source=org.gjt.sp.jedit.View[active]]
+6:16:39 PM [AWT-EventQueue-0] [debug] EditBus: DynamicMenuChanged[menu=recent-files,source=null]
+6:16:39 PM [AWT-EventQueue-0] [debug] EditBus: EditPaneUpdate[what=DESTROYED,source=org.gjt.sp.jedit.EditPane[active]]
+6:16:39 PM [AWT-EventQueue-0] [debug] BufferSet: 1826503655: Buffer removed Archelos.txt (%USERPROFILE%\Documents\)
+6:16:39 PM [AWT-EventQueue-0] [debug] BufferSetManager: Buffer:Archelos.txt (%USERPROFILE%\Documents\) is in no bufferSet anymore, closing it
+6:16:39 PM [AWT-EventQueue-0] [debug] BufferSet: 1826503655: Buffer removed cardkingdom.txt (%USERPROFILE%\Desktop\)
+6:16:39 PM [AWT-EventQueue-0] [debug] BufferSetManager: Buffer:cardkingdom.txt (%USERPROFILE%\Desktop\) is in no bufferSet anymore, closing it
+6:16:39 PM [AWT-EventQueue-0] [debug] BufferSet: 1826503655: Buffer removed char.txt (%USERPROFILE%\Desktop\)
+6:16:39 PM [AWT-EventQueue-0] [debug] BufferSetManager: Buffer:char.txt (%USERPROFILE%\Desktop\) is in no bufferSet anymore, closing it
+6:16:39 PM [AWT-EventQueue-0] [debug] BufferSet: 1826503655: Buffer removed file.txt (%USERPROFILE%\Desktop\)
+6:16:39 PM [AWT-EventQueue-0] [debug] BufferSetManager: Buffer:file.txt (%USERPROFILE%\Desktop\) is in no bufferSet anymore, closing it
+6:16:39 PM [AWT-EventQueue-0] [debug] BufferSet: 1826503655: Buffer removed justinchat.txt (%USERPROFILE%\Documents\)
+6:16:39 PM [AWT-EventQueue-0] [debug] BufferSetManager: Buffer:justinchat.txt (%USERPROFILE%\Documents\) is in no bufferSet anymore, closing it
+6:16:39 PM [AWT-EventQueue-0] [debug] BufferSet: 1826503655: Buffer removed Lands.txt (%USERPROFILE%\Desktop\)
+6:16:39 PM [AWT-EventQueue-0] [debug] BufferSetManager: Buffer:Lands.txt (%USERPROFILE%\Desktop\) is in no bufferSet anymore, closing it
+6:16:39 PM [AWT-EventQueue-0] [message] HistoryModel: Saving history
+6:16:39 PM [AWT-EventQueue-0] [message] BufferHistory: Saving C:\Users\Derik\Documents\GitHub\cs3354-f21-team02\build\settings\recent.xml
+6:16:39 PM [AWT-EventQueue-0] [message] KillRing: Saving C:\Users\Derik\Documents\GitHub\cs3354-f21-team02\build\settings\killring.xml

@@ -1,0 +1,175 @@
+Log file created on Wed Dec 15 18:25:48 CST 2021
+IMPORTANT:
+Because updating this file after every log message would kill
+performance, it will be *incomplete* unless you invoke the
+Utilities->Troubleshooting->Update Activity Log on Disk command!
+6:25:45 PM [main] [message] Log: When reporting bugs, please include the following information:
+6:25:45 PM [main] [message] Log: java.version=11.0.13
+6:25:45 PM [main] [message] Log: java.vm.version=11.0.13+8-LTS
+6:25:45 PM [main] [message] Log: java.vm.name=OpenJDK 64-Bit Server VM
+6:25:45 PM [main] [message] Log: java.runtime.version=11.0.13+8-LTS
+6:25:45 PM [main] [message] Log: java.runtime.name=OpenJDK Runtime Environment
+6:25:45 PM [main] [message] Log: java.vendor=Amazon.com Inc.
+6:25:45 PM [main] [message] Log: java.compiler=null
+6:25:45 PM [main] [message] Log: os.name=Windows 10
+6:25:45 PM [main] [message] Log: os.version=10.0
+6:25:45 PM [main] [message] Log: os.arch=amd64
+6:25:45 PM [main] [message] Log: user.home=C:\Users\Derik
+6:25:45 PM [main] [message] Log: java.home=C:\Users\Derik\.jdks\corretto-11.0.13
+6:25:45 PM [main] [message] Log: java.class.path=C:\Users\Derik\Documents\GitHub\cs3354-f21-team02\build\classes\core;C:\Users\Derik\Documents\GitHub\cs3354-f21-team02\lib\compile\jsr305.jar;C:\Users\Derik\Documents\GitHub\cs3354-f21-team02\lib\runtime\jsr305.jar
+6:25:45 PM [main] [message] jEdit: starting with command line arguments: -settings=C:/Users/Derik/Documents/GitHub/cs3354-f21-team02/build/settings
+6:25:47 PM [main] [notice] jEdit: An error occurred while connecting to the jEdit server instance.
+6:25:47 PM [main] [notice] jEdit: This probably means that jEdit crashed and/or exited abnormally
+6:25:47 PM [main] [notice] jEdit: the last time it was run.
+6:25:47 PM [main] [notice] jEdit: If you don't know what this means, don't worry.
+6:25:47 PM [main] [notice] jEdit: java.net.ConnectException: Connection refused: connect
+6:25:47 PM [main] [notice] jEdit:  at java.base/java.net.PlainSocketImpl.connect0(Native Method)
+6:25:47 PM [main] [notice] jEdit:  at java.base/java.net.PlainSocketImpl.socketConnect(PlainSocketImpl.java:101)
+6:25:47 PM [main] [notice] jEdit:  at java.base/java.net.AbstractPlainSocketImpl.doConnect(AbstractPlainSocketImpl.java:399)
+6:25:47 PM [main] [notice] jEdit:  at java.base/java.net.AbstractPlainSocketImpl.connectToAddress(AbstractPlainSocketImpl.java:242)
+6:25:47 PM [main] [notice] jEdit:  at java.base/java.net.AbstractPlainSocketImpl.connect(AbstractPlainSocketImpl.java:224)
+6:25:47 PM [main] [notice] jEdit:  at java.base/java.net.SocksSocketImpl.connect(SocksSocketImpl.java:392)
+6:25:47 PM [main] [notice] jEdit:  at java.base/java.net.Socket.connect(Socket.java:609)
+6:25:47 PM [main] [notice] jEdit:  at java.base/java.net.Socket.connect(Socket.java:558)
+6:25:47 PM [main] [notice] jEdit:  at java.base/java.net.Socket.<init>(Socket.java:454)
+6:25:47 PM [main] [notice] jEdit:  at java.base/java.net.Socket.<init>(Socket.java:264)
+6:25:47 PM [main] [notice] jEdit:  at org.gjt.sp.jedit.jEdit.main(jEdit.java:308)
+6:25:47 PM [main] [debug] jEdit: before splash screen activation:2178 ms
+6:25:48 PM [main] [debug] jEdit: after splash screen activation:2747 ms
+6:25:48 PM [main] [debug] MiscUtilities: Saving backup of file "C:\Users\Derik\Documents\GitHub\cs3354-f21-team02\build\settings\activity.log" to "C:\Users\Derik\Documents\GitHub\cs3354-f21-team02\build\settings\settings-backup\activity.log~1~"
+6:25:48 PM [main] [notice] jEdit: jEdit version 5.6.0
+6:25:48 PM [main] [message] jEdit: Settings directory is C:\Users\Derik\Documents\GitHub\cs3354-f21-team02\build\settings
+6:25:48 PM [main] [message] jEdit: jEdit home directory is C:\Users\Derik\Documents\GitHub\cs3354-f21-team02
+6:25:48 PM [main] [debug] SplashScreen: init:43/583ms
+6:25:48 PM [main] [debug] SplashScreen: init system properties:22/605ms
+6:25:48 PM [main] [message] BeanShell: Beanshell Init
+6:25:48 PM [main] [debug] SplashScreen: init beanshell:43/648ms
+6:25:48 PM [main] [debug] SplashScreen: loading site properties:2/650ms
+6:25:48 PM [main] [debug] SplashScreen: loading user properties:2/652ms
+6:25:48 PM [main] [debug] GUIUtilities: Icon theme set to: tango
+6:25:48 PM [main] [debug] GUIUtilities: Loading icon theme from: jeditresource:/org/gjt/sp/jedit/icons/themes/tango/
+6:25:48 PM [main] [debug] SplashScreen: init GUI:4/656ms
+6:25:48 PM [main] [debug] EditServer: jEdit server started on port 59742
+6:25:48 PM [main] [debug] EditServer: Authorization key is 839331330
+6:25:48 PM [main] [debug] SplashScreen: init server:2/658ms
+6:25:48 PM [main] [debug] jEdit: initPLAF non-edt old=javax.swing.plaf.metal.MetalLookAndFeel requested=null new=javax.swing.plaf.metal.MetalLookAndFeel
+6:25:48 PM [main] [debug] SplashScreen: init look and feel:12/670ms
+6:25:48 PM [main] [debug] SplashScreen: init VFS Manager:1/671ms
+6:25:48 PM [main] [debug] ActionSet: Loading actions from file:/C:/Users/Derik/Documents/GitHub/cs3354-f21-team02/build/classes/core/org/gjt/sp/jedit/actions.xml
+6:25:48 PM [main] [debug] DockableWindowManager: Loading dockables from file:/C:/Users/Derik/Documents/GitHub/cs3354-f21-team02/build/classes/core/org/gjt/sp/jedit/dockables.xml
+6:25:48 PM [main] [debug] SplashScreen: init resources:65/736ms
+6:25:48 PM [AWT-EventQueue-0] [debug] EditBus: SearchSettingsChanged[source=null]
+6:25:48 PM [main] [debug] SplashScreen: Migrate keymaps:30/766ms
+6:25:48 PM [main] [notice] jEdit: Loading plugins from C:\Users\Derik\Documents\GitHub\cs3354-f21-team02\jars
+6:25:48 PM [main] [notice] jEdit: Loading plugins from C:\Users\Derik\Documents\GitHub\cs3354-f21-team02\build\settings\jars
+6:25:48 PM [main] [debug] SplashScreen: init plugins:7/773ms
+6:25:48 PM [main] [message] HistoryModel: Loading history
+6:25:48 PM [main] [debug] SplashScreen: init history model:3/776ms
+6:25:48 PM [main] [message] BufferHistory: Loading C:\Users\Derik\Documents\GitHub\cs3354-f21-team02\build\settings\recent.xml
+6:25:48 PM [main] [debug] SplashScreen: init buffer history:7/783ms
+6:25:48 PM [main] [message] KillRing: Loading C:\Users\Derik\Documents\GitHub\cs3354-f21-team02\build\settings\killring.xml
+6:25:48 PM [main] [debug] SplashScreen: init killring:16/799ms
+6:25:48 PM [main] [debug] jEdit: initPLAF non-edt old=javax.swing.plaf.metal.MetalLookAndFeel requested=null new=javax.swing.plaf.metal.MetalLookAndFeel
+6:25:48 PM [main] [debug] jEdit: SOCKS proxy disabled
+6:25:48 PM [main] [debug] jEdit: HTTP proxy disabled
+6:25:48 PM [AWT-EventQueue-0] [debug] EditBus: PropertiesChanged[source=null]
+6:25:48 PM [main] [debug] SplashScreen: init various properties:231/1030ms
+6:25:48 PM [main] [message] jEdit: Loading mode catalog file C:\Users\Derik\Documents\GitHub\cs3354-f21-team02\modes\catalog
+6:25:48 PM [main] [debug] jEdit: Loading user mode catalog
+6:25:48 PM [main] [message] jEdit: Loading mode catalog file C:\Users\Derik\Documents\GitHub\cs3354-f21-team02\build\settings\modes\catalog
+6:25:48 PM [main] [debug] SplashScreen: init modes:75/1105ms
+6:25:48 PM [main] [debug] SplashScreen: activate plugins:8/1113ms
+6:25:48 PM [main] [debug] Macros: Registered beanshell macro handler
+6:25:48 PM [AWT-EventQueue-0] [debug] EditBus: DynamicMenuChanged[menu=macros,source=null]
+6:25:48 PM [main] [debug] SplashScreen: init macros:33/1146ms
+6:25:48 PM [main] [message] BeanShell: Running script C:\Users\Derik\Documents\GitHub\cs3354-f21-team02\startup\startup.bsh
+6:25:48 PM [main] [notice] jEdit$2: Loading edit mode C:\Users\Derik\Documents\GitHub\cs3354-f21-team02\modes\text.xml
+6:25:48 PM [main] [debug] String: BeanShell interpreter version 2.0b4-jedit
+6:25:49 PM [main] [debug] SplashScreen: run startup scripts:125/1271ms
+6:25:49 PM [main] [debug] SplashScreen: run startup scripts:1/1272ms
+6:25:49 PM [main] [debug] SplashScreen: run startup scripts:3/1274ms
+6:25:49 PM [main] [debug] jEdit: main done:3554 ms
+6:25:49 PM [AWT-EventQueue-0] [message] PerspectiveManager: Loading C:\Users\Derik\Documents\GitHub\cs3354-f21-team02\build\settings\perspective.xml
+6:25:49 PM [AWT-EventQueue-0] [debug] EditBus: BufferUpdate[what=PROPERTIES_CHANGED,view=null,source=Archelos.txt (%USERPROFILE%\Documents\)]
+6:25:49 PM [AWT-EventQueue-0] [debug] EditBus: BufferUpdate[what=CREATED,view=null,source=Archelos.txt (%USERPROFILE%\Documents\)]
+6:25:49 PM [AWT-EventQueue-0] [debug] EditBus: BufferUpdate[what=LOAD_STARTED,view=null,source=Archelos.txt (%USERPROFILE%\Documents\)]
+6:25:49 PM [AWT-EventQueue-0] [debug] EditBus: BufferUpdate[what=LOADED,view=null,source=Archelos.txt (%USERPROFILE%\Documents\)]
+6:25:49 PM [AWT-EventQueue-0] [debug] EditBus: BufferUpdate[what=PROPERTIES_CHANGED,view=null,source=cardkingdom.txt (%USERPROFILE%\Desktop\)]
+6:25:49 PM [AWT-EventQueue-0] [debug] EditBus: BufferUpdate[what=CREATED,view=null,source=cardkingdom.txt (%USERPROFILE%\Desktop\)]
+6:25:49 PM [AWT-EventQueue-0] [debug] EditBus: BufferUpdate[what=LOAD_STARTED,view=null,source=cardkingdom.txt (%USERPROFILE%\Desktop\)]
+6:25:49 PM [AWT-EventQueue-0] [debug] EditBus: BufferUpdate[what=LOADED,view=null,source=cardkingdom.txt (%USERPROFILE%\Desktop\)]
+6:25:49 PM [AWT-EventQueue-0] [debug] EditBus: BufferUpdate[what=PROPERTIES_CHANGED,view=null,source=char.txt (%USERPROFILE%\Desktop\)]
+6:25:49 PM [AWT-EventQueue-0] [debug] EditBus: BufferUpdate[what=CREATED,view=null,source=char.txt (%USERPROFILE%\Desktop\)]
+6:25:49 PM [AWT-EventQueue-0] [debug] EditBus: BufferUpdate[what=LOAD_STARTED,view=null,source=char.txt (%USERPROFILE%\Desktop\)]
+6:25:49 PM [AWT-EventQueue-0] [debug] EditBus: BufferUpdate[what=LOADED,view=null,source=char.txt (%USERPROFILE%\Desktop\)]
+6:25:49 PM [AWT-EventQueue-0] [debug] EditBus: BufferUpdate[what=PROPERTIES_CHANGED,view=null,source=file.txt (%USERPROFILE%\Desktop\)]
+6:25:49 PM [AWT-EventQueue-0] [debug] EditBus: BufferUpdate[what=CREATED,view=null,source=file.txt (%USERPROFILE%\Desktop\)]
+6:25:49 PM [AWT-EventQueue-0] [debug] EditBus: BufferUpdate[what=LOAD_STARTED,view=null,source=file.txt (%USERPROFILE%\Desktop\)]
+6:25:49 PM [AWT-EventQueue-0] [debug] EditBus: BufferUpdate[what=LOADED,view=null,source=file.txt (%USERPROFILE%\Desktop\)]
+6:25:49 PM [AWT-EventQueue-0] [debug] EditBus: BufferUpdate[what=PROPERTIES_CHANGED,view=null,source=justinchat.txt (%USERPROFILE%\Documents\)]
+6:25:49 PM [AWT-EventQueue-0] [debug] EditBus: BufferUpdate[what=CREATED,view=null,source=justinchat.txt (%USERPROFILE%\Documents\)]
+6:25:49 PM [AWT-EventQueue-0] [debug] EditBus: BufferUpdate[what=LOAD_STARTED,view=null,source=justinchat.txt (%USERPROFILE%\Documents\)]
+6:25:49 PM [AWT-EventQueue-0] [debug] EditBus: BufferUpdate[what=LOADED,view=null,source=justinchat.txt (%USERPROFILE%\Documents\)]
+6:25:49 PM [AWT-EventQueue-0] [debug] EditBus: BufferUpdate[what=PROPERTIES_CHANGED,view=null,source=Lands.txt (%USERPROFILE%\Desktop\)]
+6:25:49 PM [AWT-EventQueue-0] [debug] EditBus: BufferUpdate[what=CREATED,view=null,source=Lands.txt (%USERPROFILE%\Desktop\)]
+6:25:49 PM [AWT-EventQueue-0] [debug] EditBus: BufferUpdate[what=LOAD_STARTED,view=null,source=Lands.txt (%USERPROFILE%\Desktop\)]
+6:25:49 PM [AWT-EventQueue-0] [debug] EditBus: BufferUpdate[what=LOADED,view=null,source=Lands.txt (%USERPROFILE%\Desktop\)]
+6:25:49 PM [AWT-EventQueue-0] [debug] BufferSet: 1084516738: addBufferSetListener org.gjt.sp.jedit.EditPane[inactive]
+6:25:49 PM [AWT-EventQueue-0] [debug] EditBus: BufferChanging[what=BUFFER_CHANGING,source=org.gjt.sp.jedit.EditPane[inactive]]
+6:25:49 PM [AWT-EventQueue-0] [debug] BufferSet: 1084516738 addBufferAt(Lands.txt (%USERPROFILE%\Desktop\),-1)
+6:25:49 PM [AWT-EventQueue-0] [debug] BufferSet: 1084516738: Buffer added Lands.txt (%USERPROFILE%\Desktop\) at 0
+6:25:49 PM [AWT-EventQueue-0] [debug] EditBus: EditPaneUpdate[what=CREATED,source=org.gjt.sp.jedit.EditPane[inactive]]
+6:25:49 PM [AWT-EventQueue-0] [debug] BufferSet: 1084516738 addBufferAt(Lands.txt (%USERPROFILE%\Desktop\),0)
+6:25:49 PM [AWT-EventQueue-0] [debug] BufferSet: 1084516738 addBufferAt(Archelos.txt (%USERPROFILE%\Documents\),1)
+6:25:49 PM [AWT-EventQueue-0] [debug] BufferSet: 1084516738: Buffer added Archelos.txt (%USERPROFILE%\Documents\) at 0
+6:25:49 PM [AWT-EventQueue-0] [debug] BufferSet: 1084516738 addBufferAt(cardkingdom.txt (%USERPROFILE%\Desktop\),2)
+6:25:49 PM [AWT-EventQueue-0] [debug] BufferSet: 1084516738: Buffer added cardkingdom.txt (%USERPROFILE%\Desktop\) at 1
+6:25:49 PM [AWT-EventQueue-0] [debug] BufferSet: 1084516738 addBufferAt(char.txt (%USERPROFILE%\Desktop\),3)
+6:25:49 PM [AWT-EventQueue-0] [debug] BufferSet: 1084516738: Buffer added char.txt (%USERPROFILE%\Desktop\) at 2
+6:25:49 PM [AWT-EventQueue-0] [debug] BufferSet: 1084516738 addBufferAt(file.txt (%USERPROFILE%\Desktop\),4)
+6:25:49 PM [AWT-EventQueue-0] [debug] BufferSet: 1084516738: Buffer added file.txt (%USERPROFILE%\Desktop\) at 3
+6:25:49 PM [AWT-EventQueue-0] [debug] BufferSet: 1084516738 addBufferAt(justinchat.txt (%USERPROFILE%\Documents\),5)
+6:25:49 PM [AWT-EventQueue-0] [debug] BufferSet: 1084516738: Buffer added justinchat.txt (%USERPROFILE%\Documents\) at 4
+6:25:49 PM [AWT-EventQueue-0] [debug] BufferSet: 1084516738 addBufferAt(Lands.txt (%USERPROFILE%\Desktop\),6)
+6:25:49 PM [AWT-EventQueue-0] [debug] EditBus: ViewUpdate[what=CREATED,source=org.gjt.sp.jedit.View[active]]
+6:25:49 PM [AWT-EventQueue-0] [debug] EditBus: EditorStarted[source=null]
+6:25:49 PM [AWT-EventQueue-0] [message] jEdit: Startup complete: 4085 ms
+6:25:49 PM [AWT-EventQueue-0] [debug] EditBus: ViewUpdate[what=VIEW_ACTIVATED,source=org.gjt.sp.jedit.View[active]]
+6:25:49 PM [AWT-EventQueue-0] [debug] ActionSet: Loading actions from file:/C:/Users/Derik/Documents/GitHub/cs3354-f21-team02/build/classes/core/org/gjt/sp/jedit/browser.actions.xml
+6:25:49 PM [AWT-EventQueue-0] [debug] EditBus: DockableWindowUpdate[what=ACTIVATED,dockable=vfs.browser,source=org.gjt.sp.jedit.gui.DockableWindowManagerImpl[,0,36,752x468,invalid,layout=org.gjt.sp.jedit.gui.DockableLayout,alignmentX=0.0,alignmentY=0.0,border=,flags=9,maximumSize=,minimumSize=,preferredSize=]]
+6:25:50 PM [AWT-EventQueue-0] [debug] JEditTextArea: InputMethodSupport is activated
+6:26:11 PM [AWT-EventQueue-0] [debug] EditBus: ViewUpdate[what=VIEW_ACTIVATED,source=org.gjt.sp.jedit.View[active]]
+6:26:11 PM [AWT-EventQueue-0] [debug] jEdit: checkBufferStatus for all buffers
+6:26:11 PM [AWT-EventQueue-0] [debug] EditBus: DynamicMenuChanged[menu=recent-files,source=null]
+6:26:18 PM [AWT-EventQueue-0] [debug] MiscUtilities: Saving backup of file "C:\Users\Derik\Documents\GitHub\cs3354-f21-team02\build\settings\perspective.xml" to "C:\Users\Derik\Documents\GitHub\cs3354-f21-team02\build\settings\settings-backup\perspective.xml~1~"
+6:49:27 PM [AWT-EventQueue-0] [debug] EditBus: ViewUpdate[what=VIEW_ACTIVATED,source=org.gjt.sp.jedit.View[active]]
+6:49:27 PM [AWT-EventQueue-0] [debug] jEdit: checkBufferStatus for all buffers
+6:49:27 PM [AWT-EventQueue-0] [debug] EditBus: DynamicMenuChanged[menu=recent-files,source=null]
+7:11:08 PM [AWT-EventQueue-0] [debug] EditBus: ViewUpdate[what=VIEW_ACTIVATED,source=org.gjt.sp.jedit.View[active]]
+7:11:08 PM [AWT-EventQueue-0] [debug] jEdit: checkBufferStatus for all buffers
+7:11:08 PM [AWT-EventQueue-0] [debug] EditBus: DynamicMenuChanged[menu=recent-files,source=null]
+7:11:09 PM [AWT-EventQueue-0] [debug] EditBus: EditorExitRequested[source=org.gjt.sp.jedit.View[active]]
+7:11:09 PM [AWT-EventQueue-0] [message] PerspectiveManager: Saving C:\Users\Derik\Documents\GitHub\cs3354-f21-team02\build\settings\perspective.xml
+7:11:09 PM [AWT-EventQueue-0] [debug] MiscUtilities: Saving backup of file "C:\Users\Derik\Documents\GitHub\cs3354-f21-team02\build\settings\perspective.xml" to "C:\Users\Derik\Documents\GitHub\cs3354-f21-team02\build\settings\settings-backup\perspective.xml~1~"
+7:11:09 PM [AWT-EventQueue-0] [debug] EditBus: DynamicMenuChanged[menu=recent-files,source=null]
+7:11:09 PM [AWT-EventQueue-0] [debug] EditBus: EditorExiting[source=null]
+7:11:09 PM [AWT-EventQueue-0] [debug] EditBus: ViewUpdate[what=CLOSED,source=org.gjt.sp.jedit.View[active]]
+7:11:09 PM [AWT-EventQueue-0] [debug] EditBus: DynamicMenuChanged[menu=recent-files,source=null]
+7:11:09 PM [AWT-EventQueue-0] [debug] EditBus: EditPaneUpdate[what=DESTROYED,source=org.gjt.sp.jedit.EditPane[active]]
+7:11:09 PM [AWT-EventQueue-0] [debug] BufferSet: 1084516738: Buffer removed Archelos.txt (%USERPROFILE%\Documents\)
+7:11:09 PM [AWT-EventQueue-0] [debug] BufferSetManager: Buffer:Archelos.txt (%USERPROFILE%\Documents\) is in no bufferSet anymore, closing it
+7:11:09 PM [AWT-EventQueue-0] [debug] BufferSet: 1084516738: Buffer removed cardkingdom.txt (%USERPROFILE%\Desktop\)
+7:11:09 PM [AWT-EventQueue-0] [debug] BufferSetManager: Buffer:cardkingdom.txt (%USERPROFILE%\Desktop\) is in no bufferSet anymore, closing it
+7:11:09 PM [AWT-EventQueue-0] [debug] BufferSet: 1084516738: Buffer removed char.txt (%USERPROFILE%\Desktop\)
+7:11:09 PM [AWT-EventQueue-0] [debug] BufferSetManager: Buffer:char.txt (%USERPROFILE%\Desktop\) is in no bufferSet anymore, closing it
+7:11:09 PM [AWT-EventQueue-0] [debug] BufferSet: 1084516738: Buffer removed file.txt (%USERPROFILE%\Desktop\)
+7:11:09 PM [AWT-EventQueue-0] [debug] BufferSetManager: Buffer:file.txt (%USERPROFILE%\Desktop\) is in no bufferSet anymore, closing it
+7:11:09 PM [AWT-EventQueue-0] [debug] BufferSet: 1084516738: Buffer removed justinchat.txt (%USERPROFILE%\Documents\)
+7:11:09 PM [AWT-EventQueue-0] [debug] BufferSetManager: Buffer:justinchat.txt (%USERPROFILE%\Documents\) is in no bufferSet anymore, closing it
+7:11:09 PM [AWT-EventQueue-0] [debug] BufferSet: 1084516738: Buffer removed Lands.txt (%USERPROFILE%\Desktop\)
+7:11:09 PM [AWT-EventQueue-0] [debug] BufferSetManager: Buffer:Lands.txt (%USERPROFILE%\Desktop\) is in no bufferSet anymore, closing it
+7:11:09 PM [AWT-EventQueue-0] [message] BufferHistory: Saving C:\Users\Derik\Documents\GitHub\cs3354-f21-team02\build\settings\recent.xml
+7:11:09 PM [AWT-EventQueue-0] [debug] MiscUtilities: Saving backup of file "C:\Users\Derik\Documents\GitHub\cs3354-f21-team02\build\settings\recent.xml" to "C:\Users\Derik\Documents\GitHub\cs3354-f21-team02\build\settings\settings-backup\recent.xml~1~"
+7:11:09 PM [AWT-EventQueue-0] [message] KillRing: Saving C:\Users\Derik\Documents\GitHub\cs3354-f21-team02\build\settings\killring.xml
+7:11:09 PM [AWT-EventQueue-0] [debug] MiscUtilities: Saving backup of file "C:\Users\Derik\Documents\GitHub\cs3354-f21-team02\build\settings\killring.xml" to "C:\Users\Derik\Documents\GitHub\cs3354-f21-team02\build\settings\settings-backup\killring.xml~1~"
+7:11:09 PM [AWT-EventQueue-0] [debug] MiscUtilities: Saving backup of file "C:\Users\Derik\Documents\GitHub\cs3354-f21-team02\build\settings\properties" to "C:\Users\Derik\Documents\GitHub\cs3354-f21-team02\build\settings\settings-backup\properties~1~"

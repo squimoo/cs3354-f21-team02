@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<!DOCTYPE PERSPECTIVE SYSTEM "perspective.dtd">
+<PERSPECTIVE>
+<BUFFER AUTORELOAD="TRUE" AUTORELOAD_DIALOG="TRUE" UNTITLED="FALSE">C:\Users\Derik\Documents\Archelos.txt</BUFFER>
+<BUFFER AUTORELOAD="TRUE" AUTORELOAD_DIALOG="TRUE" UNTITLED="FALSE">C:\Users\Derik\Desktop\cardkingdom.txt</BUFFER>
+<BUFFER AUTORELOAD="TRUE" AUTORELOAD_DIALOG="TRUE" UNTITLED="FALSE">C:\Users\Derik\Desktop\char.txt</BUFFER>
+<BUFFER AUTORELOAD="TRUE" AUTORELOAD_DIALOG="TRUE" UNTITLED="FALSE">C:\Users\Derik\Desktop\file.txt</BUFFER>
+<BUFFER AUTORELOAD="TRUE" AUTORELOAD_DIALOG="TRUE" UNTITLED="FALSE">C:\Users\Derik\Documents\justinchat.txt</BUFFER>
+<BUFFER AUTORELOAD="TRUE" AUTORELOAD_DIALOG="TRUE" UNTITLED="FALSE">C:\Users\Derik\Desktop\Lands.txt</BUFFER>
+<VIEW PLAIN="FALSE">
+<PANES>
+"C:\\Users\\Derik\\Desktop\\Lands.txt" buffer "C:\\Users\\Derik\\Documents\\Archelos.txt" buff "C:\\Users\\Derik\\Desktop\\cardkingdom.txt" buff "C:\\Users\\Derik\\Desktop\\char.txt" buff "C:\\Users\\Derik\\Desktop\\file.txt" buff "C:\\Users\\Derik\\Documents\\justinchat.txt" buff "C:\\Users\\Derik\\Desktop\\Lands.txt" buff "global" bufferset
+</PANES>
+<GEOMETRY X="830" Y="238" WIDTH="768" HEIGHT="590" EXT_STATE="0" />
+</VIEW>
+</PERSPECTIVE>
